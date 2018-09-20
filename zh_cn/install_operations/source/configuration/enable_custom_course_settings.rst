@@ -1,10 +1,10 @@
 .. _Enable Custom Course Settings:
 
 ####################################
-Enabling Custom Course Settings
+启用自定义课程设置
 ####################################
 
-To enable course developers to add custom fields to a course on your instance 
+To enable course developers to add custom fields to a course on your instance
 of Open edX, you must configure the ``cms.env.json`` file in the edX platform.
 
 .. Note::
@@ -13,7 +13,7 @@ of Open edX, you must configure the ``cms.env.json`` file in the edX platform.
 
 #. Stop the LMS server.
 
-#. Create or update the file ``cms.env.json`` to include the custom course 
+#. Create or update the file ``cms.env.json`` to include the custom course
    settings feature flag.
 
    .. code-block:: yaml

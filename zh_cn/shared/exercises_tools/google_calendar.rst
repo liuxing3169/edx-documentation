@@ -1,7 +1,7 @@
 .. _Google Calendar Tool:
 
 #####################
-Google Calendar Tool
+Google日历工具
 #####################
 
 .. note:: EdX offers provisional support for this tool.
@@ -224,4 +224,3 @@ Editing Google Calendars
 When you make changes to a Google Calendar that is embedded in your course,
 learners see the updates immediately. You make changes to calendars with the
 Google user interface. You do not need to edit the Google Calendar component.
-

@@ -1,7 +1,7 @@
 .. _Enable and Create Enrollment Codes:
 
 #####################################
-Enable and Create Enrollment Codes
+启用和创建课程加入代码
 #####################################
 
 Enrollment codes allow users to purchase bulk enrollments for a course.

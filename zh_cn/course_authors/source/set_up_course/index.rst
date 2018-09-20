@@ -1,7 +1,7 @@
 .. _Setting up Your Course Index:
 
 ###################
-Setting Up a Course
+配置一门课程
 ###################
 
 When you begin to set up a course, the first step is to plan and specify two

@@ -1,7 +1,7 @@
 .. _Offering Differentiated Content:
 
 #######################################################
-Offering Different Content to Different Learner Groups
+提供不同的内容给不同的学习者组
 #######################################################
 
 You can design your course so that some learners are given different content
@@ -64,4 +64,3 @@ customized course experience.
 
 For information about creating differentiated content using cohorts, see
 :ref:`Cohorts Overview` and :ref:`Cohorted Courseware Overview`.
-

@@ -1,7 +1,7 @@
 .. _Create Products Overview:
 
 ###########################
-Creating Products Overview
+创建商品概述
 ###########################
 
 The edX platform offers several types of products. You create these products in

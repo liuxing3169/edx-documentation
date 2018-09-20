@@ -6,7 +6,7 @@
 .. _document index:
 
 ##################################
-Building and Running an edX Course
+构建和运行一门edX课程
 ##################################
 
 .. toctree::

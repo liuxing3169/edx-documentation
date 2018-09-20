@@ -1,7 +1,7 @@
 .. _Feature Flag Index:
 
 ###############################
-Index of Open EdX Feature Flags
+Open EdX 功能标记的索引
 ###############################
 
 The following list includes feature flags that are available in the Open edX

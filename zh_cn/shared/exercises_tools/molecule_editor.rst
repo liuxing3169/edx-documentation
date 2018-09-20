@@ -1,7 +1,7 @@
 .. _Molecule Editor:
 
 #######################
-Molecule Editor Tool
+化学分子编辑器工具
 #######################
 
 .. note:: EdX does not support this tool.

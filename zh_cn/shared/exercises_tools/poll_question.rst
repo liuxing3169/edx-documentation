@@ -1,7 +1,7 @@
 .. _Poll Tool:
 
 ###################
-Poll Tool
+投票工具
 ###################
 
 .. note:: EdX offers full support for this tool.

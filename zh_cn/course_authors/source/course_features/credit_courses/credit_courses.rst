@@ -1,7 +1,7 @@
 .. _Academic Course Credit:
 
 #####################################
-Academic Course Credit
+学院的课程学分
 #####################################
 
 If your institution has an agreement with edX, you might be able to offer

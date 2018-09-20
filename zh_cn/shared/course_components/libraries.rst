@@ -1,7 +1,7 @@
 .. _Content Libraries:
 
 ##############################
-Working with Content Libraries
+使用内容库
 ##############################
 
 This section describes how to work with content libraries in Studio.
@@ -470,4 +470,3 @@ To import a library, follow these steps.
    about updating library components used in your course to match the latest
    version in the content library, see :ref:`Get the Latest Version of Library
    Content`.
-

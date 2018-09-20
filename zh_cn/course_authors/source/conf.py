@@ -5,7 +5,7 @@ sys.path.append('../../../')
 
 from shared.conf import *
 
-project = u'Building and Running an edX Course'
+project = u'构建和运营一门edX课程'
 
 tags.add('Partners')
 set_audience(PARTNER, COURSE_TEAMS)

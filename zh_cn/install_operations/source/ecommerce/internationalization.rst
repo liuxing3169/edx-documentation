@@ -1,4 +1,4 @@
-Internationalization
+国际化
 ====================
 Follow the `internationalization coding guidelines`_ in the edX Developer's Guide when developing new features.
 
@@ -73,5 +73,3 @@ If a language fetched from the cookie cannot be found in PAYPAL_LOCALES, the LAN
 .. _Django's Locale Middleware: https://docs.djangoproject.com/en/2.0/topics/i18n/translation/#how-django-discovers-language-preference
 .. _PayPal's country to language mapping: https://developer.paypal.com/docs/classic/api/locale_codes/
 .. _Django documentation for Languages: https://docs.djangoproject.com/en/2.0/ref/settings/#languages
-
-

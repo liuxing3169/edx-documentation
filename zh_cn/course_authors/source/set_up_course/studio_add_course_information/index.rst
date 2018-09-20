@@ -1,7 +1,7 @@
 .. _Partner Add Studio Information:
 
 ##############################################################
-Add Course and Course Run Information in Studio (Edge Courses)
+在Studio中添加课程和课程运行信息(Edge Courses)
 ##############################################################
 
 .. note::

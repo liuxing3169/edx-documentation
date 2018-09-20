@@ -1,7 +1,7 @@
 .. _Creating a Theme:
 
 ################
-Creating a Theme
+创建一个主题
 ################
 
 To create a theme, you add a theme directory to the installation-wide themes

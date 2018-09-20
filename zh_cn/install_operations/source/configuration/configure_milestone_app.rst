@@ -2,7 +2,7 @@
 .. for reuse, not in TOC, excluded from build list
 
 ************************************
-Configure the Milestones Application
+配置里程碑应用程序
 ************************************
 
 #. Set the value of ``MILESTONES_APP`` in the ``lms.env.json`` and

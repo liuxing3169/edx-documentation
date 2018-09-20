@@ -1,7 +1,7 @@
 .. _Enabling and Configuring Cohorts:
 
 ############################################
-Enabling and Configuring the Cohorts Feature
+开启和配置组群功能
 ############################################
 
 This section provides information about setting up cohorts in your course.

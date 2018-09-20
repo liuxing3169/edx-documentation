@@ -1,7 +1,7 @@
 .. _Cohorts Overview:
 
 #############################
-Using Cohorts in Your Courses
+在你的课程中使用组群
 #############################
 
 This section provides an introduction to using cohorts to divide the learners

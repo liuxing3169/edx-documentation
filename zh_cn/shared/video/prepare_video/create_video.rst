@@ -1,7 +1,7 @@
 .. _Create a Video:
 
 ##############
-Create a Video
+创建一个视频
 ##############
 
 Your videos can contain whatever content you want to include in the course. The

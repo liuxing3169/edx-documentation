@@ -1,7 +1,7 @@
 .. _Managing Live Course Index:
 
 ##########################
-Managing a Running Course
+管理一门运行中的课程
 ##########################
 
 Use the topics in this section to learn about managing a course that is

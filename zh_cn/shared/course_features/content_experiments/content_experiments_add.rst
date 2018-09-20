@@ -1,7 +1,7 @@
 .. _Add Content Experiments to Your Course:
 
 #########################################
-Add Content Experiments to Your Course
+添加内容试验到你的课程
 #########################################
 
 This section provides instructions for adding content experiments to your

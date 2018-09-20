@@ -3,7 +3,7 @@
 .. _Guidelines for Modifying Group Configurations:
 
 *********************************************
-Guidelines for Modifying Group Configurations
+修改组配置的指引
 *********************************************
 
 Review these guidelines if you must modify a group configuration after a course

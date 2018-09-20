@@ -4,7 +4,7 @@
 .. _view_enrollment_count:
 
 =========================
-View an Enrollment Count
+查看入学登记的数量
 =========================
 
 After you create a course, you can access the total number of people who are

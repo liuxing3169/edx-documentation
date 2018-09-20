@@ -1,7 +1,7 @@
 .. _Pub Find a Course:
 
 #############################
-Find a Course in Publisher
+在Publisher中查找一门课程
 #############################
 
 To find a course that has already been created, :ref:`sign in to

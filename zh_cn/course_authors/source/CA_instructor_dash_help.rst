@@ -5,7 +5,7 @@
 .. _Instructor Dashboard Help:
 
 ############################
-Instructor Dashboard
+教员仪表盘
 ############################
 
 You can manage various aspects of your course on the instructor dashboard in
@@ -29,4 +29,3 @@ dashboard.
 
 For more information, see the :ref:`Building and Running an edX
 Course<partnercoursestaff:document index>` guide.
-

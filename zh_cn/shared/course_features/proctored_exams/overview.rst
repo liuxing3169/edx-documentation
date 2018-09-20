@@ -1,7 +1,7 @@
 .. _CA_ProctoredExams_Overview:
 
 ############################
-Proctored Exam Overview
+监控考试概览
 ############################
 
 Proctored exams are timed exams that learners take while online proctoring

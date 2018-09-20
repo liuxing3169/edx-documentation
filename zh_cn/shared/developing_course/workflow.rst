@@ -1,7 +1,7 @@
 .. _Getting Started with Course Content Development:
 
 ###############################################
-Getting Started with Course Content Development
+开始课程内容的开发
 ###############################################
 
 When you have finished :ref:`setting up your course<Setting up your Course
@@ -17,7 +17,7 @@ course content, with links to more details.
 .. _Understanding Course Building Blocks:
 
 ************************************************
-Understanding Course Building Blocks
+理解课程构建部件
 ************************************************
 
 Before you begin, you should understand the building blocks of an edX course.

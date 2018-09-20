@@ -1,7 +1,7 @@
 .. _Enable Self Paced Courses:
 
 #############################
-Enabling Self-Paced Courses
+启用自定义进度课程
 #############################
 
 This topic describes how to enable the self-paced courses feature in your

@@ -1,7 +1,7 @@
 .. _Pub Edit a Course in Publisher:
 
 ############################
-Edit a Course in Publisher
+在Publisher中编辑一门课程
 ############################
 
 .. note::

@@ -1,7 +1,7 @@
 .. _Working with Discussion Components:
 
 ###################################
-Working with Discussion Components
+使用讨论组件
 ###################################
 
 This section describes how to work with discussion components in Studio.
@@ -11,7 +11,7 @@ This section describes how to work with discussion components in Studio.
  :depth: 1
 
 *******************
-Overview
+概述
 *******************
 
 You can add discussion components to a unit to pose questions about other

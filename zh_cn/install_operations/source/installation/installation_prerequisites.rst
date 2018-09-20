@@ -1,7 +1,7 @@
 .. _Installation Prerequisites:
 
 ######################################################
-Installation Prerequisites
+安装先决条件
 ######################################################
 
 To use Devstack or Analytics Devstack successfully, you must meet the
@@ -39,7 +39,7 @@ Devstack and Analytics Devstack require the following software.
 * `Docker`_ 17.06 CE or later. We recommend Docker Stable, but Docker Edge
   should work as well.
 
-You must have ``docker-compose`` in your path. On macOS, installing Docker for 
+You must have ``docker-compose`` in your path. On macOS, installing Docker for
 Mac takes care of this requirement.
 
 =======================================

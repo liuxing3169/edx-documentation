@@ -1,7 +1,7 @@
 .. _edX as an LTI Provider to Blackboard:
 
 ###############################################
-Example: edX as an LTI Provider to Blackboard
+例如: edX 作为一个 LTI 提供者给 Blackboard
 ###############################################
 
 .. only:: Partners
@@ -44,5 +44,3 @@ To use edX course content in the Blackboard LMS, you add a new app to the course
    .. image:: ../../../../shared/images/lti_blackboard_example.png
      :alt: An edX drag and drop problem shown as part of a course running on a
       Blackboard system.
-
-

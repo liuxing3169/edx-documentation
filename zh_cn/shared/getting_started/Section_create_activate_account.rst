@@ -23,7 +23,7 @@ link in an email message that you receive after your account is created.
 .. _edX Create an Account:
 
 ==================
-Create an Account
+创建一个账号
 ==================
 
 

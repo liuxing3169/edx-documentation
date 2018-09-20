@@ -1,7 +1,7 @@
 .. _Pub Creating a Course Run:
 
 ####################################
-Creating a Course Run in Publisher
+创建一门课程运行在Publisher中
 ####################################
 
 .. note::

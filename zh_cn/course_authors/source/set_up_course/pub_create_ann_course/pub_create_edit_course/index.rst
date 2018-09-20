@@ -1,7 +1,7 @@
 .. _Pub Creating a Course:
 
 ##############################
-Creating a Course in Publisher
+在Publisher中创建课程
 ##############################
 
 .. note::

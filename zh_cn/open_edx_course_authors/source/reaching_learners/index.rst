@@ -1,7 +1,7 @@
 .. _Reaching Learners:
 
 ######################################
-Reaching As Many Learners As Possible
+尽可能多地连接更多学习者
 ######################################
 
 The core mission of edX is to expand access to education for everyone. Keep in

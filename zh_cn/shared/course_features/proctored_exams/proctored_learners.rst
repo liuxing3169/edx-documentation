@@ -1,7 +1,7 @@
 .. _Preparing Learners for Proctored Exams:
 
 ########################################
-Preparing Learners for Proctored Exams
+为监控考试准备学习者
 ########################################
 
 To prepare learners for a proctored exam, follow these guidelines.

@@ -1,12 +1,12 @@
 .. _Open edX Platform Installation Options:
 
 ########################################
-Open edX Platform Installation Options
+Open edX Platform 安装选项
 ########################################
 
 This section describes Open edX installation options and the components that
-each option includes. There are two development environment installation 
-options, which install the Open edX software using Docker. If you prefer, you 
+each option includes. There are two development environment installation
+options, which install the Open edX software using Docker. If you prefer, you
 can install into an Ubuntu machine of your own using the Native installation.
 
 .. contents::
@@ -40,9 +40,9 @@ supported.
 Open edX Devstack
 =================
 
-Devstack is a deployment of the Open edX platform within a set of Docker 
-containers designed for local development. Running the Open edX platform 
-locally allows you to discover and fix system configuration issues early in 
+Devstack is a deployment of the Open edX platform within a set of Docker
+containers designed for local development. Running the Open edX platform
+locally allows you to discover and fix system configuration issues early in
 development.
 
 Devstack simplifies certain production settings to make development more

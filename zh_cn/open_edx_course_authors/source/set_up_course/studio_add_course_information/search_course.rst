@@ -1,7 +1,7 @@
 .. _Course Search:
 
 #####################
-Course Search
+课程搜索
 #####################
 
 Learners can search much of the content of your course, including the

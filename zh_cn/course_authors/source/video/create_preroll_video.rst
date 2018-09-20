@@ -1,7 +1,7 @@
 .. _Adding a PreRoll Video:
 
 ################################################
-Adding a Pre-Roll Video to Your edX Course
+添加一个Pre-Roll 视频到你的edX课程
 ################################################
 
 .. note::
@@ -276,5 +276,3 @@ To remove the pre-roll file from your course, follow these steps.
 #. Select **Save Changes**.
 
 .. include:: ../../../links/links.rst
-
-

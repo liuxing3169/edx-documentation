@@ -1,7 +1,7 @@
 .. _Multiple Choice:
 
 ########################
-Multiple Choice Problem
+多项选择性问题
 ########################
 
 .. note:: EdX offers full support for this problem type.

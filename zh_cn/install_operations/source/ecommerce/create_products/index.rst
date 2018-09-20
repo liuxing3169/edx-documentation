@@ -1,7 +1,7 @@
 .. _Create Ecommerce Products:
 
 ############################
-Create E-Commerce Products
+创建 E-Commerce 商品
 ############################
 
 After you :ref:`configure a partner and at least one site <Configure a Site

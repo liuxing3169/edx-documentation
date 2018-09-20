@@ -1,12 +1,12 @@
 .. _Starting Devstack:
 
 ######################################
-Starting the Open edX Developer Stack
+使用 Open edX Developer Stack
 ######################################
 
 After you have installed Devstack within Docker, you can start Open edX
-services. You start the edX services with the following command. This command 
-mounts the repositories under the DEVSTACK_WORKSPACE directory. 
+services. You start the edX services with the following command. This command
+mounts the repositories under the DEVSTACK_WORKSPACE directory.
 
    .. code-block:: bash
 
@@ -16,9 +16,9 @@ mounts the repositories under the DEVSTACK_WORKSPACE directory.
 Connecting to Services
 **********************
 
-After it starts, each service is accessible at ``localhost`` on a specific 
-port. The table below provides links to the homepage of each service. Since 
-some services are not meant to be user-facing, the homepage may be the API 
+After it starts, each service is accessible at ``localhost`` on a specific
+port. The table below provides links to the homepage of each service. Since
+some services are not meant to be user-facing, the homepage may be the API
 root.
 
   .. list-table::
@@ -40,63 +40,63 @@ root.
    * - Studio/CMS
      - http://localhost:18010/
 
-After the services have started, you can get shell access to one of the 
-services with a  ``make <service>-shell`` command. For example, to access the 
+After the services have started, you can get shell access to one of the
+services with a  ``make <service>-shell`` command. For example, to access the
 Catalog/Course Discovery Service, run this command.
 
   .. code-block:: bash
- 
+
    make discovery-shell
 
 ************
 Viewing Logs
-************ 
+************
 
-To see logs from containers running in detached mode, run the following 
+To see logs from containers running in detached mode, run the following
 command.
 
   .. code-block:: bash
-   
+
    make logs
 
 As an alternative, you can use Docker's Kitematic feature, which is available from the **Docker for Mac** menu.
 
-To view the logs of a specific service container, run a 
-``make <service>-logs`` command. For example, to access the logs for the 
+To view the logs of a specific service container, run a
+``make <service>-logs`` command. For example, to access the logs for the
 Ecommerce service, run this command.
 
   .. code-block:: bash
-   
+
    make ecommerce-logs
 
 *******************
 Restarting Services
 *******************
 
-To restart a particular service, run a ``docker-compose restart <service>`` 
-command. For example, to restart the Studio service, run the following 
-command. 
+To restart a particular service, run a ``docker-compose restart <service>``
+command. For example, to restart the Studio service, run the following
+command.
 
   .. code-block:: bash
-   
+
    docker-compose restart studio
 
 ********************
 Restarting Devstack
 ********************
 
-To reset your environment and start provisioning from scratch, run the 
+To reset your environment and start provisioning from scratch, run the
 following command.
 
   .. code-block:: bash
-   
+
    make destroy
 
-For information on all the available make commands, run the following 
+For information on all the available make commands, run the following
 command.
 
   .. code-block:: bash
-   
+
    make help
 
 .. _Default Accounts:
@@ -132,4 +132,3 @@ default.
 The default password for all of these accounts is ``edx``.
 
 .. include:: ../../../links/links.rst
-

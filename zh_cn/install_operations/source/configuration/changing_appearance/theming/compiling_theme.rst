@@ -1,7 +1,7 @@
 .. _Compiling a Theme:
 
 #######################
-Compiling a Theme
+编译一个主题
 #######################
 
 To update a theme, you compile the Sass files to create the CSS files that
@@ -90,4 +90,3 @@ To update a theme for the E-commerce service, follow these steps.
       - Include the location of the source file as comments in the resulting
         CSS files.  Enabling this argument can be useful when you are testing a
         theme.
-

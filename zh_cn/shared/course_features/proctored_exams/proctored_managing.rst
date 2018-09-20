@@ -1,7 +1,7 @@
 .. _Managing Proctored Exams:
 
 ########################
-Managing Proctored Exams
+管理监控考试
 ########################
 
 When you administer a proctored exam in your course, learners might have
@@ -89,4 +89,3 @@ the edX Help Center.
 
 
 .. include:: ../../../../links/links.rst
-

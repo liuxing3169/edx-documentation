@@ -3,7 +3,7 @@
 .. _Browsers:
 
 ####################
-edX Browser Support
+edX 浏览器支持
 ####################
 
 The edX platform runs on the following browsers.

@@ -1,7 +1,7 @@
 .. _Glossary:
 
 ############
-Glossary
+术语表
 ############
 
 :ref:`A` - :ref:`C` - :ref:`D` - :ref:`E` - :ref:`F`
@@ -1162,4 +1162,3 @@ XYZ
 
 
 .. include:: ../../links/links.rst
-

@@ -1,7 +1,7 @@
 .. _Add CourseTalk:
 
 #############################################
-Adding the CourseTalk Widget
+添加 CourseTalk 组件
 #############################################
 
 This topic describes how to add `CourseTalk`_ widgets to your instance of Open

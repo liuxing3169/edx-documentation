@@ -1,7 +1,7 @@
 .. _Pub Create a Course:
 
 ############################
-Create a Course in Publisher
+在Publisher中创建一门课程
 ############################
 
 To create a course in Publisher, follow these steps.

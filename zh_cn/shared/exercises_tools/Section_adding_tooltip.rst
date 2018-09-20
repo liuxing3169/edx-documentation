@@ -1,7 +1,7 @@
 .. _Adding Tooltips to a Problem:
 
 ==============================
-Adding Tooltips to a Problem
+添加提示到一个问题
 ==============================
 
 To help learners understand terminology or other aspects of a problem, you can

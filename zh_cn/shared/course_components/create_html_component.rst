@@ -1,7 +1,7 @@
 .. _Working with HTML Components:
 
 #############################
-Working with HTML Components
+使用HTML组件
 #############################
 
 This section describes how to work with HTML components in Studio.

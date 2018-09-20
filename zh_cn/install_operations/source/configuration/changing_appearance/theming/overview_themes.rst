@@ -1,7 +1,7 @@
 .. _Theming Overview:
 
 ###################
-Themes Overview
+主题概述
 ###################
 
 After you configure one or more sites for your Open edX installation, including

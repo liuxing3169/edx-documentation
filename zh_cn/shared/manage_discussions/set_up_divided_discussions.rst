@@ -1,7 +1,7 @@
 .. _About Divided Discussions:
 
 ###################################
-About Divided Discussion Topics
+关于分离的讨论主题
 ###################################
 
 This section provides information about setting up discussions that are

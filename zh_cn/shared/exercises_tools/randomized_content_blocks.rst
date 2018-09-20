@@ -1,7 +1,7 @@
 .. _Randomized Content Blocks:
 
 #########################
-Randomized Content Blocks
+随机化内容模块
 #########################
 
 If your course has :ref:`content libraries<Content Libraries>` enabled and you

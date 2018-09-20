@@ -1,7 +1,7 @@
 .. _Enable edX Search:
 
 #########################
-Enabling Open edX Search
+启用 Open edX 搜索
 #########################
 
 You can add a search feature to your Open edX site so that prospective learners

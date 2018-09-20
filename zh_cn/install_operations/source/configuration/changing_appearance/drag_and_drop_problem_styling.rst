@@ -1,7 +1,7 @@
 .. _styling_drag_and_drop_problems:
 
 ##############################
-Styling Drag and Drop Problems
+拖拽问题的样式
 ##############################
 
 You can customize the appearance of drag and drop problems in your Open edX

@@ -1,7 +1,7 @@
 .. _Themes Root Directories:
 
 #################################
-Root Directories for Theme Files
+主题文件的根目录
 #################################
 
 Themes are located outside of the Open edX source directories, in any location

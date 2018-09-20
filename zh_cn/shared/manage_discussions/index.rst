@@ -1,7 +1,7 @@
 .. _Managing Discussions Index:
 
 ##########################
-Managing Discussions
+管理讨论
 ##########################
 
 Course discussions foster interaction among learners and between learners and

@@ -1,7 +1,7 @@
 .. _Enable Course Prerequisites:
 
 #############################
-Enabling Course Prerequisites
+启用课程先修条件
 #############################
 
 This topic describes how to enable course prerequisites in your instance of

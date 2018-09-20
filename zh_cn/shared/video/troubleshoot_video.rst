@@ -1,7 +1,7 @@
 .. _Troubleshoot Video Problems:
 
 ################################
-Troubleshooting Video Problems
+排错视频问题
 ################################
 
 When you use video, you might experience one of the following problems.

@@ -3,7 +3,7 @@
 .. _LTI Component:
 
 ###############
-LTI Component
+LTI 组件
 ###############
 
 .. note:: EdX offers full support for this tool.

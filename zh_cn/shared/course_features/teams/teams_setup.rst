@@ -1,7 +1,7 @@
 .. _Teams Setup:
 
 ##########################################
-Using Teams in Your Courses
+在你的课程中使用团队
 ##########################################
 
 This section provides information about setting up teams in your courses.
@@ -324,4 +324,3 @@ To delete a team, follow these steps.
    team has been successfully deleted. The team no longer appears in the teams
    list within its topic. Learners who were previously members of this team no
    longer belong to a team.
-

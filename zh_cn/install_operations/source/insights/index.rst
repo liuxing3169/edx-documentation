@@ -1,7 +1,7 @@
 .. _Adding edX Insights:
 
 #####################################
-Adding edX Insights for Course Teams
+为课程团队添加Insights
 #####################################
 
 The following topics provide information about installing, configuring, and
@@ -19,4 +19,3 @@ available now.
 
 
 .. include:: ../../../links/links.rst
-

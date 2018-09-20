@@ -1,7 +1,7 @@
 .. _Create Exercises:
 
 ###############################
-Problems, Exercises, and Tools
+问题，练习和工具
 ###############################
 
 You can add a wide variety of different types of problems, exercises, and
@@ -503,4 +503,3 @@ these steps.
 After you enable this setting, unsupported problem types, exercises, and tools
 are available in the lists of new components that you can add to your course
 in Studio.
-

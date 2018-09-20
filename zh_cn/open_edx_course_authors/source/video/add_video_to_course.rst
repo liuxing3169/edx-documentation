@@ -1,7 +1,7 @@
 .. _Add a Video to a Course:
 
 ##########################
-Adding a Video to a Course
+添加一个视频到一门课程
 ##########################
 
 To make a video visible in your course, you create a video component in a

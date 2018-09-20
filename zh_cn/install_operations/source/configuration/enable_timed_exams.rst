@@ -1,7 +1,7 @@
 .. _Enable Timed Exams:
 
 #############################
-Enabling Timed Exams
+启用定时考试
 #############################
 
 This topic describes how to enable the timed exams feature in your instance of

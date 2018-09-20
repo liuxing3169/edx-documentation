@@ -1,7 +1,7 @@
 .. _Using Elastic MapReduce on AWS:
 
 ******************************************
-Using Elastic MapReduce on AWS
+在AWS上使用Elastic MapReduce
 ******************************************
 
 This topic provides an overview of the components and services that you set up
@@ -393,4 +393,3 @@ page.
 
 
 .. include:: ../../../links/links.rst
-

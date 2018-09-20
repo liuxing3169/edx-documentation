@@ -29,7 +29,7 @@ menu options.
 .. _SFD Learner Dashboard:
 
 ******************************************
-Accessing Your Courses from the Dashboard
+从仪表盘访问你的课程
 ******************************************
 
 Your dashboard lists all of the courses that you are enrolled in. When you
@@ -127,7 +127,7 @@ media sites such as Facebook and Twitter.
 .. _SFD Profile Page:
 
 ***************************
-Adding Profile Information
+添加用户资料信息
 ***************************
 
 Your personal profile allows you to optionally share information about yourself
@@ -329,7 +329,7 @@ The learner's account profile page opens.
 .. _Find or Change Course Information:
 
 *********************************
-Updating Course-Specific Settings
+更新课程特定的设置
 *********************************
 
 From the dashboard, access the courses that you are enrolled in and change
@@ -362,5 +362,3 @@ To subscribe or unsubscribe to emails from a course, follow these steps.
    .. note:: If you clear this check box, you will not receive any of the
         email messages that course teams send to communicate with enrolled
         learners in the course.
-
-

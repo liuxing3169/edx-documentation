@@ -1,7 +1,7 @@
 .. _Working with Video Components:
 
 #############################
-Working with Video Components
+使用视频组件
 #############################
 
 You use video components to add videos to your course in Studio. In video

@@ -1,7 +1,7 @@
 .. _Timed Exams:
 
 ######################
-Offering Timed Exams
+提供限时考试
 ######################
 
 This topic describes how to add and manage timed exams in your course.
@@ -213,4 +213,3 @@ affected, and their scores for the exam remain visible on the **Progress** page.
 #. In the **Subsection Visibility** section, select **Hide content after due date**.
 
 #. Select **Save**.
-

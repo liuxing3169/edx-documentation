@@ -1,7 +1,7 @@
 .. _Open Response Assessments:
 
 #########################
-Open Response Assessments
+开放作答评估(ORA)
 #########################
 
 .. note:: EdX offers full support for this problem type.

@@ -1,7 +1,7 @@
 .. _Enabling a CDN for Course Assets:
 
 ######################################
-Enabling a CDN for Course Assets
+为课程资源启用一个CDN
 ######################################
 
 By default, all course assets are served directly from your Open edX instance.

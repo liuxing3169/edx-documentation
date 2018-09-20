@@ -1,7 +1,7 @@
 .. _Creating a Course:
 
 ###########################
-Creating a Course
+创建一门课程
 ###########################
 
 This topic describes how to use Studio to create and set up a course, as well
@@ -18,4 +18,3 @@ as enable several different course features and create a course About page.
    studio_creating_certificates
    search_course
    custom_courses
-

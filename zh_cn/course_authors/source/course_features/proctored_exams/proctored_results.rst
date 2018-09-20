@@ -1,7 +1,7 @@
 .. _Proctored Session Results:
 
 #################################
-Viewing Proctored Session Results
+查看监督的会话结果
 #################################
 
 To view proctored exam results, you use the :ref:`Proctored Exam Results

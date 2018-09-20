@@ -1,7 +1,7 @@
 .. _Enrollment:
 
 ##########################
-Enrollment
+课程入学登记
 ##########################
 
 Learners can enroll themselves in a course during its defined enrollment

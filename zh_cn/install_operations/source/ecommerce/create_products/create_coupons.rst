@@ -1,7 +1,7 @@
 .. _Create and Manage Coupons:
 
 ##################################
-Create and Manage Coupons
+创建和管理优惠劵
 ##################################
 
 This topic covers how to create and distribute coupons and their associated
@@ -647,4 +647,3 @@ For more information about the way that the E-Commerce service manages orders,
 see :ref:`Manage Orders`.
 
 .. include:: ../../../../links/links.rst
-

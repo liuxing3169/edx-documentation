@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 
-Open Response Assessments
+开放回答评估(ORA)
 =========================
 
 .. toctree::

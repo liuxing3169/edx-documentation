@@ -1,7 +1,7 @@
 .. _Adding ECommerce to Open edX:
 
 ##########################################
-Adding E-Commerce to the Open edX Platform
+添加 E-Commerce 到 Open edX Platform
 ##########################################
 
 EdX uses a Django application called ``ecommerce`` to provide the platform with

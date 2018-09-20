@@ -5,7 +5,7 @@
 .. _Getting Started with Studio:
 
 ###########################
-Getting Started with Studio
+开始使用 Studio
 ###########################
 
 This topic describes the tools you use to build an Open edX course, and how
@@ -19,7 +19,7 @@ to view your courses.
 .. _What is Studio?:
 
 ***************
-What Is Studio?
+什么是 Studio?
 ***************
 
 Studio is the tool you use to build your courses.
@@ -34,7 +34,7 @@ You use Studio directly through your browser. You do not need any additional
 software.
 
 ****************
-What Is the LMS?
+什么是 LMS?
 ****************
 
 The LMS is the web-based tool where you view the courses you have created in
@@ -53,5 +53,3 @@ If you have not created a course, see :ref:`Creating a New Course`.
 
 To continue working on your course, return to the browser tab that shows
 Studio.
-
-

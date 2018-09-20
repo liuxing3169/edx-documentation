@@ -1,7 +1,7 @@
 .. _Pub Creating and Announcing a Course:
 
 ###################################################################
-Creating and Announcing a Course Using Publisher (edx.org Courses)
+使用Publisher创建并通告一门课程(edx.org 课程)
 ###################################################################
 
 .. note::

@@ -1,7 +1,7 @@
 .. _Customize Registration Page:
 
 #############################################
-Adding Custom Fields to the Registration Page
+添加自定义字段到注册页面
 #############################################
 
 This topic describes how to add custom fields to the registration page for your

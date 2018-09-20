@@ -1,7 +1,7 @@
 .. _Notes Tool:
 
 ##############################
-Notes Tool
+笔记工具
 ##############################
 
 .. note:: EdX offers full support for this tool.

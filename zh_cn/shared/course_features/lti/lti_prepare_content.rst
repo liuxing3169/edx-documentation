@@ -1,7 +1,7 @@
 .. _Preparing Content:
 
 #####################################
-Preparing to Reuse Course Content
+准备可复用的课程内容
 #####################################
 
 .. only:: Partners

@@ -1,7 +1,7 @@
 .. _Add Files to a Course:
 
 ###########################
-Adding Files to a Course
+添加文件到一门课程
 ###########################
 
 Adding files, such as images, that you can use in your course has the following

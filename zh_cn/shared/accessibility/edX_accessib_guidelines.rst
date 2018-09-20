@@ -1,7 +1,7 @@
 .. _edX Accessibility Guidelines:
 
 ****************************************************************
-What Is The EdX Accessibility Best Practices Guidance Based On?
+edX辅助的最佳实践是基于什么的?
 ****************************************************************
 
 EdX measures and evaluates accessibility using the World Wide Web Consortium's
@@ -34,5 +34,3 @@ For more information, see the following topics.
 
 * :ref:`Supporting Learners with Diverse Needs`
 * :ref:`Accessibility Best Practices for Course Content Development`
-
-

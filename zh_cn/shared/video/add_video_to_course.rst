@@ -11,7 +11,7 @@
 .. _Add a Video and Transcript:
 
 **************************
-Add a Video and Transcript
+添加一个视频和字幕
 **************************
 
 To add a video and its transcript, follow these steps.
@@ -70,5 +70,3 @@ To test the transcript with the video, after you have saved the video, select
 the **Show transcript** (”) icon in the video player’s control bar. The
 transcript file scrolls while the video file plays. You can also test the
 transcript by selecting the **CC** icon.
-
-

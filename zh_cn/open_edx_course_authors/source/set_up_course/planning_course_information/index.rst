@@ -1,7 +1,7 @@
 .. _Planning Course Information:
 
 ###########################
-Planning Course Information
+规划课程信息
 ###########################
 
 Course information remains true whether the course runs one time or multiple

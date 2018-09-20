@@ -1,7 +1,7 @@
 .. _Reusing Course Content:
 
 ##########################################
-Reusing Course Content with LTI
+使用LTI复用课程内容
 ##########################################
 
 .. only:: Partners

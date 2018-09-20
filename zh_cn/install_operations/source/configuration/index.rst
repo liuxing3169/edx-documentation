@@ -1,7 +1,7 @@
 .. _Configuring the Open edX Platform:
 
 ######################################################
-Configuring the Open edX Platform
+配置 Open edX Platform
 ######################################################
 
 The following sections provide information about Open edX Platform

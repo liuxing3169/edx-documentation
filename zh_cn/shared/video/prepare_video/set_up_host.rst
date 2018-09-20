@@ -1,7 +1,7 @@
 .. _Set Up a Hosting Service:
 
 ########################
-Set Up a Hosting Service
+配置一个托管服务
 ########################
 
 .. only:: Partners

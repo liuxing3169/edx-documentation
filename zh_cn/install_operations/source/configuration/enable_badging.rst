@@ -1,7 +1,7 @@
 .. _Enable Badging:
 
 ##################
-Enabling Badging
+启用徽章
 ##################
 
 This topic describes how to enable and configure badging in your instance of

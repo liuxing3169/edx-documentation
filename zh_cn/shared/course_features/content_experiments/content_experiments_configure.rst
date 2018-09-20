@@ -1,7 +1,7 @@
 .. _Configure Your Course for Content Experiments:
 
 #####################################################
-Configure Your Course for Content Experiments
+配置你的课程的内容试验
 #####################################################
 
 This section provides instructions for configuring your course to use

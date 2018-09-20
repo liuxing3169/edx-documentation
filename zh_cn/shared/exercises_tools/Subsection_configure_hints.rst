@@ -1,5 +1,5 @@
 ====================================
-Configure Hints in the Simple Editor
+在一个简单编辑器中配置提示
 ====================================
 
 In the simple editor, you configure hints with the following syntax.
@@ -54,4 +54,3 @@ For example, the following OLX for a multiple choice problem shows two hints.
     <hint>A fruit contains seeds of the plant.</hint>
   </demandhint>
   </problem>
-

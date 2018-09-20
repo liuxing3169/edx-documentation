@@ -1,10 +1,10 @@
 .. _Troubleshooting Devstack:
 
 ########################
-Troubleshooting Devstack
+Devstack 问题排除
 ########################
 
-If you are having trouble running Devstack on Docker, here are some 
+If you are having trouble running Devstack on Docker, here are some
 troubleshooting tips.
 
 ==============
@@ -35,8 +35,8 @@ the following command from the ``devstack`` directory.
 
    git pull
 
-The images are built from the master branches of the application repositories 
-(for example, ``edx-platform``, ``ecommerce``, etc.). Make sure you are using 
+The images are built from the master branches of the application repositories
+(for example, ``edx-platform``, ``ecommerce``, etc.). Make sure you are using
 the latest code from the master branches, or have rebased your branches on master.
 
 =====================
@@ -44,7 +44,7 @@ Clean the containers
 =====================
 
 Sometimes containers end up in strange states and need to be rebuilt. Run
-``make down`` to remove all containers and networks. This will **not** remove 
+``make down`` to remove all containers and networks. This will **not** remove
 your data volumes.
 
 ==============================
@@ -100,7 +100,7 @@ changes the owner of the files that you pull to the user that runs that command.
 Within a container, that is the root user, so git operations should be run
 outside of the container.
 
-To fix this situation, change the owner back to yourself outside of the container 
+To fix this situation, change the owner back to yourself outside of the container
 by running the following command.
 
 .. code:: sh
@@ -145,13 +145,13 @@ Here is an example of this error while running ``make pull``.
 .. code:: sh
 
    ...
-   32d52c166025: Extracting [==================================================>] 
-   1.598 GB/1.598 GB ERROR: failed to register layer: Error processing tar 
+   32d52c166025: Extracting [==================================================>]
+   1.598 GB/1.598 GB ERROR: failed to register layer: Error processing tar
    file(exit status 1): write /edx/app/edxapp/edx-platform/.git/objects/pack/
    pack-4ff9873be2ca8ab77d4b0b302249676a37b3cd4b.pack: no space left on device
    make: *** [pull] Error 1
 
-To address this error, first try the following command to clean up dangling 
+To address this error, first try the following command to clean up dangling
 images.
 
 .. code:: sh
@@ -160,7 +160,7 @@ images.
 
 If you are still seeing issues, you can try cleaning up dangling volumes.
 
-**Warning**: In most cases this removes only volumes that you no longer 
+**Warning**: In most cases this removes only volumes that you no longer
 need, but this is not a guarantee.
 
 .. code:: sh
@@ -215,7 +215,7 @@ package versions installed.
 Support
 *******
 
-File any issues you encounter in JIRA under the 
+File any issues you encounter in JIRA under the
 :jira:`PLAT` (Platform) project.
 
 

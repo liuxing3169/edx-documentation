@@ -1,7 +1,7 @@
 .. _Staff Debug Info:
 
 ############################
-Staff Debug Info
+职员调试信息
 ############################
 
 The edX system keeps track of learners' progress through a course -- recording
@@ -17,7 +17,7 @@ but for the sake of clarity, some of these fields are documented here.
   Indicates whether the problem is visible to learners.
 
 ``location``
-  An internal unique identifier that corresponds to this problem. 
+  An internal unique identifier that corresponds to this problem.
 
   .. only:: Partners
 
@@ -36,12 +36,12 @@ but for the sake of clarity, some of these fields are documented here.
   The maximum number of times that a learner can attempt to answer the problem
   correctly.
 
-``attempts`` 
+``attempts``
   The number of times that the currently logged in learner has
   attempted to answer the problem correctly, so far. Every time this learner
   attempts to answer this question, this number will go up, until it reaches
   ``max_attempts``.
 
-``parent`` 
+``parent``
   An internal unique identifier that corresponds to the unit that
   contains this problem.

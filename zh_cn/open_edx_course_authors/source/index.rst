@@ -1,7 +1,7 @@
 .. _Building and Running an Open edX Course:
 
 #########################################################
-Building and Running an Open edX Course: Hawthorn Release
+创建和运行一门 Open edX 课程: Hawthorn Release
 #########################################################
 
 .. toctree::

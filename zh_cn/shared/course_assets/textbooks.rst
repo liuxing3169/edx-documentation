@@ -1,7 +1,7 @@
 .. _Adding Textbooks:
 
 ###########################
-Textbooks
+教材
 ###########################
 
 You can add textbooks in PDF format to your course.

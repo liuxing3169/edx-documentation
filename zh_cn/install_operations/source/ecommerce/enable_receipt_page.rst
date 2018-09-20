@@ -1,7 +1,7 @@
 .. _Enable the ECommerce Receipt Page:
 
 ##########################################
-Enable the E-Commerce Service Receipt Page
+启用 E-Commerce 服务收据页面
 ##########################################
 
 The E-Commerce service includes a receipt page that you can display to users

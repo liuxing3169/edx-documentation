@@ -1,7 +1,7 @@
 .. _Grading Index:
 
 #################################################
-Establishing a Grading Policy For Your Course
+为你的课程建立一个评分策略
 #################################################
 
 Use the topics in this section to learn about setting up grading for your
@@ -23,5 +23,3 @@ see :ref:`Developing Your Course Index`.
    configure_assignment_type
    graded_subsections
    learner_view_of_grades
-
-

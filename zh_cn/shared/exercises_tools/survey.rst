@@ -1,7 +1,7 @@
 .. _Survey Tool:
 
 ###################
-Survey Tool
+调查工具
 ###################
 
 .. note:: EdX offers full support for this tool.

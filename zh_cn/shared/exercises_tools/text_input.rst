@@ -1,7 +1,7 @@
 .. _Text Input:
 
 ########################
-Text Input Problem
+文本输入型问题
 ########################
 
 .. note:: EdX offers full support for this problem type.

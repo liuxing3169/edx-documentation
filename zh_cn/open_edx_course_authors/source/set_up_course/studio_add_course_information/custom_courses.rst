@@ -1,7 +1,7 @@
 .. _Creating a Custom Course:
 
 ########################
-Creating a Custom Course
+创建一门自定义课程
 ########################
 
 This topic describes custom courses on the edX platform (CCX).

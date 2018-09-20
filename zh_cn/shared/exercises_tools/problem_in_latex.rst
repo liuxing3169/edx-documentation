@@ -1,7 +1,7 @@
 .. _Problem Written in LaTeX:
 
 ############################
-Problem Written in LaTeX
+使用LaTeX编写问题
 ############################
 
 .. note:: EdX does not support this problem type.

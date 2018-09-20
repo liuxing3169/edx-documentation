@@ -1,7 +1,7 @@
  .. _Problem with Adaptive Hint:
 
 ################################
-Problem with Adaptive Hint
+带有适应提示的问题
 ################################
 
 .. note:: EdX does not support this problem type.
@@ -170,4 +170,3 @@ Tags
      * - hintfn
        - Must be set to **hint_fn** (that is, the tag must appear as
          ``<hintgroup hintfn="hint_fn"/>``).
-

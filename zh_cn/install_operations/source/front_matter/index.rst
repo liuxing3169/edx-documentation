@@ -1,5 +1,5 @@
 #############################
-General Information
+综述信息
 #############################
 
 .. toctree::
@@ -9,4 +9,3 @@ General Information
    getting_help
    preface
    browsers
-

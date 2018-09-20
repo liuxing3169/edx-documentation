@@ -1,7 +1,7 @@
 .. _Configuring Open Response Assessments:
 
 ########################################################
-Configuring Open Response Assessments
+配置开放回答作业
 ########################################################
 
 You can change the default configuration for the Open Response Assessment
@@ -20,4 +20,3 @@ the *Building and Running an Open edX Course* guide.
 
 
 .. include:: ../../../../links/links.rst
-

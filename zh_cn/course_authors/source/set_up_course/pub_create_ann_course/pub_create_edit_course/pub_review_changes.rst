@@ -1,7 +1,7 @@
 .. _Pub Review Changes and Finalize the Course:
 
 ######################################
-Review Changes and Finalize the Course
+回顾改变和完成课程
 ######################################
 
 When the edX marketing team has finished reviewing the course, you can review

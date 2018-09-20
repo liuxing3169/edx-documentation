@@ -9,7 +9,7 @@ This section describes how you can contribute to the course wiki.
 .. _Adding a Wiki Article:
 
 *********************************
-Adding a Wiki Article
+添加一个Wiki文章
 *********************************
 
 When you add an article to the wiki, be aware of what level you are currently

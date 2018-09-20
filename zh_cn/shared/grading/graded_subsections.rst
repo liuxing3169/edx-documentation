@@ -1,7 +1,7 @@
 .. _Graded Subsections:
 
 **********************************************
-Graded Subsections
+评分子章节
 **********************************************
 
 After you configure assignment types, as you are organizing your course, you

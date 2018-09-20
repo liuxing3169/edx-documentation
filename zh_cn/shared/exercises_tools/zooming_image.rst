@@ -1,7 +1,7 @@
 .. _Zooming Image:
 
 ##################
-Zooming Image Tool
+图片缩放工具
 ##################
 
 .. note:: EdX does not support this tool.
@@ -95,5 +95,3 @@ Create a Zooming Image Tool
      :alt: Example HTML for a zooming image tool.
 
 #. Select **Save**.
-
-

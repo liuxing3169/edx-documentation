@@ -1,7 +1,7 @@
 .. _Conditional Module:
 
 ####################
-Conditional Module
+条件模块
 ####################
 
 .. note:: EdX offers provisional support for this problem type.

@@ -1,7 +1,7 @@
 .. _Managing Divided Discussion Topics:
 
 ###################################
-Managing Divided Discussion Topics
+管理分离的讨论主题
 ###################################
 
 This section provides information about managing

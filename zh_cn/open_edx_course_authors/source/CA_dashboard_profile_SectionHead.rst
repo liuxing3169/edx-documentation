@@ -1,7 +1,7 @@
 .. _CA Dashboard:
 
 ###################################################
-Exploring Your Dashboard and Profile
+探索你的仪表盘和用户信息
 ###################################################
 
 .. note:: Your dashboard is available only from the LMS. If you are currently

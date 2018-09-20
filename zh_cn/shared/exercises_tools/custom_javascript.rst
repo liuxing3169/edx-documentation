@@ -1,7 +1,7 @@
 .. _Custom JavaScript:
 
 ##############################################
-Custom JavaScript Display and Grading Problem
+自定义脚本显示和对问题评分
 ##############################################
 
 .. note:: EdX offers full support for this problem type.
@@ -320,5 +320,3 @@ Optional Attributes
   In the future, JSInput may attempt to make these dimensions match the HTML
   file's dimensions (up to the aforementioned limits), but currently it
   defaults to ``300`` and ``400`` for **height** and **width**, respectively.
-
-

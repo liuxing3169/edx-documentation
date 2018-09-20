@@ -1,7 +1,7 @@
 .. _Comprehensive Theming:
 
 ######################
-Comprehensive Theming
+综合主题
 ######################
 
 Any application, including Otto, can be loosely divided into two parts:

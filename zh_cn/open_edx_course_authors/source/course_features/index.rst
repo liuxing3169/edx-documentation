@@ -1,7 +1,7 @@
 .. _Course Features Index:
 
 ###############################################
-Using Enhanced Capabilities In Your Course
+在你的课程中使用增强的功能
 ###############################################
 
 Use the topics in this section to learn about options for enhancing your course

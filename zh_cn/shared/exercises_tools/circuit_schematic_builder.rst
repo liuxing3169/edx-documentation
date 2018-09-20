@@ -1,7 +1,7 @@
 .. _Circuit Schematic Builder:
 
 ##################################
-Circuit Schematic Builder Problem
+电路原理图构建问题
 ##################################
 
 .. note:: EdX does not support this problem type.
@@ -157,4 +157,3 @@ the advanced editor.
    </div>
   </solution>
  </problem>
-

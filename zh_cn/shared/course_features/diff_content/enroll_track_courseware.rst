@@ -3,7 +3,7 @@
 .. _Enrollment Track Specific Courseware Overview:
 
 #######################################################
-Creating Course Content for Specific Enrollment Tracks
+为特定的入学登记追踪创建课程内容
 #######################################################
 
 This section provides information about creating different content for

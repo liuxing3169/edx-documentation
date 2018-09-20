@@ -1,7 +1,7 @@
 .. _Full Screen Image:
 
 ######################
-Full Screen Image Tool
+全屏图片工具
 ######################
 
 .. note:: EdX does not support this problem type.

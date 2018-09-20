@@ -1,7 +1,7 @@
 .. _Planning Course Run Information:
 
 #####################################
-Planning Course Run Information
+规划课程运行信息
 #####################################
 
 Course run information can change each time a course is run. This section lists

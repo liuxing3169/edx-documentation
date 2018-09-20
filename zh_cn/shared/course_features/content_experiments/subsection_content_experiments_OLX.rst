@@ -3,7 +3,7 @@
 .. _Add a Content Experiment in OLX:
 
 ****************************************
-Add a Content Experiment in OLX
+在 OLX 中添加一个内容试验
 ****************************************
 
 You work with multiple XML files to configure a content experiment. This

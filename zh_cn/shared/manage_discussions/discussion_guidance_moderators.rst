@@ -1,7 +1,7 @@
 .. _Guidance for Discussion Moderators:
 
 ######################################
-Guidance for Discussion Moderators
+讨论主持人指南
 ######################################
 
 Discussion forums are hugely important tools in running a successful MOOC;

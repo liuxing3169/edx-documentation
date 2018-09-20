@@ -1,7 +1,7 @@
 .. _RecommenderXBlock:
 
 ##################
-Recommender Tool
+推荐工具
 ##################
 
 .. note:: EdX does not support this tool.

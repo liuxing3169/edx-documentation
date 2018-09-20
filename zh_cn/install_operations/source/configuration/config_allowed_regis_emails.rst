@@ -1,7 +1,7 @@
 .. _Configure Allowed Registration Email Patterns:
 
 ################################################
-Specifying Allowed Registration Email Patterns
+指定允许注册的邮件正则表达式
 ################################################
 
 This topic describes how to restrict registration on your site by specifying

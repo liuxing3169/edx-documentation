@@ -1,7 +1,7 @@
 .. _Video Process Overview:
 
 ####################################
-Video Process Overview
+视频处理概览
 ####################################
 
 The video process is different for courses on edx.org and courses on Edge.
@@ -50,4 +50,3 @@ Video Process for Courses on Edge
 
 
 .. include:: ../../../shared/video/video_process_overview.rst
-

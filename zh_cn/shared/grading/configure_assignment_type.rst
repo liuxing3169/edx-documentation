@@ -1,7 +1,7 @@
 .. _Configure the Assignment Types:
 
 ******************************
-Configure the Assignment Types
+配置作业类型
 ******************************
 
 You must create assignment types for your course and determine the weight of
@@ -74,5 +74,3 @@ You configure the following fields for each assignment type.
 
   The number of assignments of this type that the grader will drop. The grader
   will drop the lowest-scored assignments first.
-
-

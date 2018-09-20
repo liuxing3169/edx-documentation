@@ -1,7 +1,7 @@
 .. _Theming Open edX:
 
 #####################################
-Changing Themes for an Open edX Site
+为一个 Open edX 站点改变主题
 #####################################
 
 The theme for a website defines the appearance of its user interface (UI): the

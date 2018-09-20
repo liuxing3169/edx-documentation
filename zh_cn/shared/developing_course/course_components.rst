@@ -1,7 +1,7 @@
 .. _Developing Course Components:
 
 ###################################
-Developing Course Components
+开发课程组件
 ###################################
 
 This section describes how you develop course components.

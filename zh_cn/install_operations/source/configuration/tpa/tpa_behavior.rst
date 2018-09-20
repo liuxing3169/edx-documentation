@@ -1,7 +1,7 @@
 .. _SSO Behavior:
 
 ############
-SSO Behavior
+SSO 表现
 ############
 
 The following behavior applies to all three types of provider (OAuth, SAML, and LTI).

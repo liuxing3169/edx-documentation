@@ -1,7 +1,7 @@
 .. _Configuring an edX Instance as an LTI Tool Provider:
 
 ########################################################
-Configuring an edX Instance as an LTI Tool Provider
+配置edX实例作为一个学习工具( LTI )提供者
 ########################################################
 
 You can configure your edX instance to be a learning tool interoperability

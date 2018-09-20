@@ -1,7 +1,7 @@
 .. _Adding Feedback and Hints to a Problem:
 
 ***************************************
-Adding Feedback and Hints to a Problem
+添加反馈和提示到一个问题
 ***************************************
 
 You can add feedback, hints, or both to the following core problem types.

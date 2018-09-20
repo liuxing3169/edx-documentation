@@ -1,7 +1,7 @@
 .. _External Grader:
 
 ###########################
-External Grader
+外部评分器
 ###########################
 
 .. note:: EdX offers provisional support for this tool.

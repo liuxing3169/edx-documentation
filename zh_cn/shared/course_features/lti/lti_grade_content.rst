@@ -1,7 +1,7 @@
 .. _Grading Remote Content:
 
 #####################################
-Grading Remote Content
+对远程内容进行评分
 #####################################
 
 .. only:: Partners

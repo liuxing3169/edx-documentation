@@ -1,7 +1,7 @@
 .. _Specify Prerequisite Courses and Exams:
 
 #########################################
-Specifying Prerequisite Courses and Exams
+指定先决条件课程和考试
 #########################################
 
 In Studio, you can specify that learners must complete a specific course
@@ -14,7 +14,7 @@ Prerequisites`.
 .. _Specify Prerequisite Courses:
 
 ****************************
-Prerequisite Courses
+先决条件课程
 ****************************
 
 To define one course as the prerequisite for another, you must be the course

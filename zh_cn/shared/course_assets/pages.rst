@@ -1,7 +1,7 @@
 .. _Adding Pages to a Course:
 
 ##################################
-Managing the Pages in Your Course
+管理你课程的页面
 ##################################
 
 This topic describes the pages, or tabs, that the LMS includes for your course

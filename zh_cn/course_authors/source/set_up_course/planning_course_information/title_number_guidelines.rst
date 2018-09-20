@@ -1,7 +1,7 @@
 .. _Course Title Number and Enrollment Track:
 
 ##########################################
-Course Title, Number, and Enrollment Track
+课程标题，编号，和入学注册轨道
 ##########################################
 
 The course title (sometimes also called the course name) and number are

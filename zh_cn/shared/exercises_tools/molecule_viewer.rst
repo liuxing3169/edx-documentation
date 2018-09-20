@@ -1,7 +1,7 @@
 .. _Molecule Viewer:
 
 #######################
-Molecule Viewer Tool
+化学分子查看器工具
 #######################
 
 .. note:: EdX does not support this tool.

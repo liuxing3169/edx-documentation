@@ -1,7 +1,7 @@
 .. _Setting up Your Course Index:
 
 ################################
-Setting Up a Course
+配置一门课程
 ################################
 
 When you begin to set up a course, the first step is to plan and specify two
@@ -25,4 +25,3 @@ course run information, as well as how to enter this information in Studio.
 
 For information about how to develop your course content in the Studio course
 outline, see :ref:`Developing Your Course Index`.
-

@@ -1,7 +1,7 @@
 .. _Exporting and Importing a Course:
 
 #####################################
-Exporting and Importing a Course
+导出和导入一门课程
 #####################################
 
 When you have released your course, you can use the course export and import

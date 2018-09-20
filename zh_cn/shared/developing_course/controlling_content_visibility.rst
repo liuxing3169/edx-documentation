@@ -1,7 +1,7 @@
 .. _Controlling Content Visibility:
 
 ############################################
-Controlling Content Visibility and Access
+控制内容的可见性和访问
 ############################################
 
 As a member of the course team, you must carefully control which content is

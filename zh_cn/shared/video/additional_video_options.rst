@@ -1,7 +1,7 @@
 .. _Additional Video Options:
 
 ###################################
-Specifying Additional Video Options
+指定附加视频选项
 ###################################
 
 When you create a video component, you can specify additional options such as
@@ -15,7 +15,7 @@ start and stop time for the video.
 .. _Enable Video and Transcript Downloads:
 
 ********************************************
-Enable Video and Transcript Downloads
+开启视频和字幕可下载
 ********************************************
 
 You can allow learners to download videos and transcript files that you have
@@ -153,5 +153,3 @@ The following options appear on the **Advanced** page of the video component.
 
     * - **YouTube IDs**
       - As of March 2018, edX no longer supports videos on YouTube.
-
-

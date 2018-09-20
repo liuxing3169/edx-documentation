@@ -1,7 +1,7 @@
 .. _drag_and_drop_problem:
 
 ##########################
-Drag and Drop Problem
+拖拽型问题
 ##########################
 
 .. note:: EdX offers full support for this problem type.

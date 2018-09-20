@@ -1,7 +1,7 @@
 .. _Enabling Discussion Notifications:
 
 ##########################################
-Enabling Discussion Notifications
+启用讨论通知
 ##########################################
 
 You can set up notifications that learners receive the first time that anyone

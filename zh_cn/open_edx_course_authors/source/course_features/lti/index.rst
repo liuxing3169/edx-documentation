@@ -1,8 +1,8 @@
 .. _Using Open edX as an LTI Tool Provider:
 
-######################################
-Using Open edX as an LTI Tool Provider
-######################################
+###############################################
+使用Open edX作为一个可集成的学习工具提供者
+###############################################
 
 Your installation of Open edX can be configured to be a learning tool
 interoperability (LTI) provider to other systems and applications. If your Open
@@ -33,4 +33,3 @@ You can also include content from an LTI provider in your Open edX courses. For
 more information, see :ref:`LTI Component`.
 
 .. _Configuring an edX Instance as an LTI Tool Provider: http://edx.readthedocs.io/projects/edx-installing-configuring-and-running/en/latest/configuration/lti/index.html
-

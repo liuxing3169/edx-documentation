@@ -1,7 +1,7 @@
 .. _Checkbox:
 
 ##################
-Checkbox Problem
+复选框问题
 ##################
 
 .. note:: EdX offers full support for this problem type.

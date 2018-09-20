@@ -1,7 +1,7 @@
 .. _enable_theming:
 
 ##############################
-Enabling and Applying Themes
+启用和应用主题
 ##############################
 
 You must enable the use of themes for your Open edX installation before you can
@@ -166,4 +166,3 @@ To apply a theme to an Open edX site, follow these steps.
 #. In the **Theme dir name** field, enter the identifier of the theme.
 
 #. Select **Save**.
-

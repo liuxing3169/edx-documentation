@@ -1,7 +1,7 @@
 .. _Designing For a Mobile Experience:
 
 ###############################################
-Designing Your Course For a Mobile Experience
+设计你的课程为移动端体验
 ###############################################
 
 The percentage of learners who access MOOCs using smartphones is increasing
@@ -91,4 +91,3 @@ renders as you expect it to.
 .. note:: Keep in mind that course updates that you make might not be
    immediately reflected in the edX mobile apps. In particular, newly
    published content can take up to an hour to update on the Android app.
-

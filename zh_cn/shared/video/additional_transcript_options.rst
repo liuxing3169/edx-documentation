@@ -1,7 +1,7 @@
 .. _Additional Transcript Options:
 
 ########################################
-Specifying Additional Transcript Options
+指定附加的翻译选项
 ########################################
 
 .. contents::
@@ -9,7 +9,7 @@ Specifying Additional Transcript Options
   :depth: 1
 
 ***************************
-Edit a Video Transcript
+编辑一个视频字幕
 ***************************
 
 If you want to edit an existing .srt video transcript, follow
@@ -112,6 +112,3 @@ select a language.
 .. image:: ../../../shared/images/Video_LanguageTranscripts_LMS.png
    :alt: The video player with the language menu selected to show English and
     Spanish as transcript options
-
-
-

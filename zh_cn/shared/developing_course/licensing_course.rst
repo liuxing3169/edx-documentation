@@ -1,7 +1,7 @@
 .. _Licensing a Course:
 
 ################
-Course Licensing
+课程许可协议
 ################
 
 You can specify licensing options for your course content as well as for each
@@ -165,4 +165,3 @@ For the course and for videos, if you choose **All Rights Reserved**, learners
 see **All Rights Reserved**; if you choose **Creative Commons** and select any
 allowed combination of options, learners see **Some Rights Reserved** and can
 select the link to see details.
-

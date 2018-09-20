@@ -1,7 +1,7 @@
 .. _Upload a Video on edX:
 
 #################
-Uploading a Video
+上传一个视频
 #################
 
 Uploading a video and transcript is different depending on whether your course is on edx.org or Edge.

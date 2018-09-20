@@ -1,7 +1,7 @@
 .. _Section_learner_problem_view:
 
 ************************************
-The Learner View of a Problem
+学习者视图看一个问题的显示
 ************************************
 
 All problems on the edX platform have these component parts, some of which can

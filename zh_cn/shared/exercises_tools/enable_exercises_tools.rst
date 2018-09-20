@@ -1,7 +1,7 @@
 .. _Enable Additional Exercises and Tools:
 
 #########################################
-Enabling Additional Exercises and Tools
+开启附加的练习和工具
 #########################################
 
 Studio includes a default set of core problem types that can be added to any
@@ -64,6 +64,3 @@ To enable an advanced exercise or tool, follow these steps.
    Studio checks the syntax of your entry and reformats your entry to add line
    feeds and indentation. A message lets you know whether your changes were
    saved successfully.
-
-
-

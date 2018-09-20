@@ -1,7 +1,7 @@
 .. _Accessibility Best Practices for Course Content Development:
 
 ############################################################
-Accessibility Best Practices for Developing Course Content
+开发课程内容的辅助最佳实践
 ############################################################
 
 EdX is dedicated to creating a platform that is not only itself accessible, but
@@ -1063,5 +1063,3 @@ Universal Design for Learning Resources
 * `Delivering Accessible Digital Learning (JISC Techdis) <http://www.jisctechdis.ac.uk/techdis/resources/accessiblecontent>`_ provides a useful overview of an inclusive approach to course design.
 
 * `The National Center on Universal Design for Learning <http://www.udlcenter.org/implementation/postsecondary>`_ provides a helpful overview on Universal Design for Learning.
-
-

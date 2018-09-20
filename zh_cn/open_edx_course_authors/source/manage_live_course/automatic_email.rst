@@ -1,7 +1,7 @@
 .. _Automatic Email:
 
 ###################################################
-Automatic Email Messages from the Open edX Platform
+来自 Open edX 平台的自动邮件消息
 ###################################################
 
 .. Currently (5 January 2018), edx.org sends several different automatic

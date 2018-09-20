@@ -1,7 +1,7 @@
 .. _Getting Help:
 
 ############
-Getting Help
+获取帮助
 ############
 
 This section describes resources for getting help if you need technical
@@ -24,7 +24,7 @@ Information to Provide When Asking for Help
 
 Keep in mind when asking for help that you have much more knowledge of your
 situation than others do.  You need to provide that context so that people can
-understand your problem and provide good help.  
+understand your problem and provide good help.
 To make it easier for others to help you, please provide the following types of
 information.
 

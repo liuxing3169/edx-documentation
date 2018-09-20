@@ -1,7 +1,7 @@
 .. _CA Online Proctoring Rules:
 
 ####################################
-Online Proctoring Rules for Learners
+对于学习者的在线监督规则
 ####################################
 
 .. only:: Partners

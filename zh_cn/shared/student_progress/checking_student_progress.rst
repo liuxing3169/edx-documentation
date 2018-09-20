@@ -1,7 +1,7 @@
 .. _Checking Student Progress and Issuing Certificates:
 
 ###############
-Ending a Course
+结束一门课程
 ###############
 
 This topic describes how to complete several end-of-course tasks.
@@ -133,6 +133,3 @@ To allow learners to download early certificates, you modify the
    Be sure that you include the double quotation marks.
 
 #. Select **Save Changes**.
-
-
-

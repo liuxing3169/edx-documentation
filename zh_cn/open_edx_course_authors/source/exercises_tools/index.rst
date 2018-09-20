@@ -1,7 +1,7 @@
 .. _Exercises and Tools Index:
 
 ############################
-Adding Exercises and Tools
+添加练习和工具
 ############################
 
 Use the topics in this section to understand how to add exercises and tools to

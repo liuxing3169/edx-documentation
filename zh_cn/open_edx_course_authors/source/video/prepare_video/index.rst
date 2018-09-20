@@ -1,7 +1,7 @@
 .. _Preparing a Video:
 
 #########################
-Preparing a Video
+准备一个视频
 #########################
 
 Before you add a video to a course, you need the following items.

@@ -1,7 +1,7 @@
 .. _Grades:
 
 ############################
-Learner Grades and Grading
+学习者分数和评分
 ############################
 
 You can review information about how grading is configured for your course, and

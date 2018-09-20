@@ -1,7 +1,7 @@
 .. _Developing Course Units:
 
 ###################################
-Developing Course Units
+开发课程单元
 ###################################
 
 To work with units in the course outline and develop your course, you need to

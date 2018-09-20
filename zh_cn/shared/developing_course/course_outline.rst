@@ -1,7 +1,7 @@
 .. _Developing Your Course Outline:
 
 ###################################
-Developing Your Course Outline
+开发你的课程大纲
 ###################################
 
 As you develop your course, you work primarily in the edX Studio course

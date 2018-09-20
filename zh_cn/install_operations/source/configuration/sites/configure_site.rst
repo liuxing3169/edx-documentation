@@ -1,7 +1,7 @@
 .. _Configuring Sites Independently:
 
 #################################
-Configuring Sites Independently
+配置独立站点
 #################################
 
 You can set configuration properties independently for individual sites. The

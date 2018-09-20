@@ -1,7 +1,7 @@
 .. _Getting Started with edX:
 
 #############################
-Getting Started with edX
+开始使用 edX
 #############################
 
 The following topics provide an introduction to edx.org and edX Edge, and
@@ -24,7 +24,7 @@ For information about enrolling learners in a course, see :ref:`enroll_student`.
 .. _edX.org and edX Edge:
 
 ***********************************
-Introducing edx.org and edX Edge
+简介 edx.org 和 edX Edge
 ***********************************
 
 To explore edX courses or create edX course content, you can register an
@@ -54,7 +54,7 @@ different.
 .. _CA About Accounts:
 
 ************************************
-About edX.org and edX Edge Accounts
+关于 edX.org 和 edX Edge 的账号
 ************************************
 
 .. note::  The user accounts on edx.org and edX Edge are separate. To access or

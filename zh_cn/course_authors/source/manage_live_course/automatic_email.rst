@@ -1,7 +1,7 @@
 .. _Automatic Email:
 
 #################################
-Automatic Email Messages from edX
+来自于edX的自动邮件消息
 #################################
 
 .. Note: Any update to the **discussion notification** information should also

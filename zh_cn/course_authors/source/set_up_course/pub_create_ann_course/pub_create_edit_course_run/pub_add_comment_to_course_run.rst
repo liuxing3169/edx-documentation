@@ -1,7 +1,7 @@
 .. _Pub Add a Comment to the Course Run:
 
 ################################
-Add a Comment to the Course Run
+添加一个评论到课程运行
 ################################
 
 You and other Publisher users can add a comment to a course run at any time.

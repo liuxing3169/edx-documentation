@@ -1,7 +1,7 @@
 .. _edX as an LTI Provider to Canvas:
 
 ##########################################
-Example: edX as an LTI Provider to Canvas
+例如: edX 作为一个 LTI 提供者给 Canvas
 ##########################################
 
 .. only:: Partners

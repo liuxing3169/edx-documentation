@@ -1,7 +1,7 @@
 .. _Test ECommerce:
 
 ###################################
-Test Your E-Commerce Application
+测试你的 E-Commerce 应用程序
 ###################################
 
 To test new applications that you develop for the E-Commerce service, you

@@ -1,7 +1,7 @@
 .. _Student Data:
 
 ############################
-Learner Data
+学习者数据
 ############################
 
 You can access data about the individuals who are enrolled in your course at

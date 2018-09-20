@@ -1,7 +1,7 @@
 .. _Beta_Testing:
 
 #############################
-Beta Testing a Course
+Beta 测试一门课程
 #############################
 
 This topic describes how to beta test your course.

@@ -1,7 +1,7 @@
 .. _Create a Site:
 
 #############################
-Create an Open edX Site
+创建一个 Open edX 站点
 #############################
 
 To create an Open edX site, follow these steps.

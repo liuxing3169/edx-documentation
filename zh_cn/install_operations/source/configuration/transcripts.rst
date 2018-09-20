@@ -1,7 +1,7 @@
 .. _Configure Transcripts:
 
 ####################################
-Configuring Transcript Behavior
+配置翻译行为
 ####################################
 
 As a best practice, transcripts should always be provided, so that course

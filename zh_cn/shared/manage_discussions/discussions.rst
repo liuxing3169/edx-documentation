@@ -1,7 +1,7 @@
 .. _Discussions:
 
 ##################################
-Creating Course Discussions
+创建课程讨论
 ##################################
 
 Discussions in an edX course include both course-wide topics of interest to

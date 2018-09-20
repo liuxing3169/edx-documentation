@@ -1,7 +1,7 @@
 .. _Image Mapped Input:
 
 ###########################
-Image Mapped Input Problem
+图片映射输入问题
 ###########################
 
 .. note:: EdX does not support this problem type.
@@ -311,4 +311,3 @@ Specifies the image file and the region in the file where learners must click.
   Children
 
   (none)
-

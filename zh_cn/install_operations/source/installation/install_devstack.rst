@@ -1,7 +1,7 @@
 .. _Installing and Updating Devstack:
 
 #################################
-Installing and Updating Devstack
+安装和更新 Devstack
 #################################
 
 This section provides information about how to install and update
@@ -124,9 +124,8 @@ following sequence of commands.
     make pull
     make dev.up
 
-This stops any running Devstack containers, pulls the latest images, and then 
+This stops any running Devstack containers, pulls the latest images, and then
 starts all of the Devstack containers.
 
 
 .. include:: ../../../links/links.rst
-

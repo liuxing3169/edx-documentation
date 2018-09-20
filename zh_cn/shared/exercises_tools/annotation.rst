@@ -1,7 +1,7 @@
 .. _Annotation:
 
 ###################
-Annotation Problem
+注释问题
 ###################
 
 .. note:: EdX does not support this problem type.

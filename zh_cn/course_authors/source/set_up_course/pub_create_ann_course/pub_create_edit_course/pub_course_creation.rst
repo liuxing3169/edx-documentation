@@ -1,7 +1,7 @@
 .. _Pub Course Creation:
 
 #######################################
-The Publisher Course Creation Process
+Publisher 课程创建步骤
 #######################################
 
 In Publisher, a course contains the following information.

@@ -4,7 +4,7 @@
 .. _Troubleshooting signin:
 
 ***************************
-Solving a Sign In Problem
+解决一个登录问题
 ***************************
 
 To sign in to edx.org, go to https://courses.edx.org/login. If you receive an

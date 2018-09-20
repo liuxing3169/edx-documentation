@@ -1,7 +1,7 @@
 .. _Working with Problem Components:
 
 ################################
-Working with Problem Components
+使用问题组件
 ################################
 
 This section introduces the core set of problem types that course teams can add

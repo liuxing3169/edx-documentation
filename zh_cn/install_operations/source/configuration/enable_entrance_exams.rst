@@ -1,7 +1,7 @@
 .. _Enable Entrance Exams:
 
 ########################
-Enabling Entrance Exams
+启用入学考试
 ########################
 
 This topic describes how to enable entrance exams in your instance of Open

@@ -1,7 +1,7 @@
 .. _Manage Static Assets:
 
 ##############################
-Manage Static Assets
+管理静态资源
 ##############################
 
 After you :ref:`configure a partner and at least one site <Configure a Site

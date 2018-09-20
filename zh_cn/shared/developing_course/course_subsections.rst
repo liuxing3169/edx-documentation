@@ -1,7 +1,7 @@
 .. _Developing Course Subsections:
 
 ###################################
-Developing Course Subsections
+开发课程子章节
 ###################################
 
 To develop subsections in your course, you must first understand the

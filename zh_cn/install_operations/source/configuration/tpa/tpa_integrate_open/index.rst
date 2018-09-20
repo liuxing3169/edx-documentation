@@ -1,7 +1,7 @@
 .. _Integrate TPA in Open edX:
 
 ##################################################
-Integrating Third Party Authentication in Open edX
+在 Open edX 中集成第三方身份认证
 ##################################################
 
 For the Open edX platform, you complete two steps to integrate third party
@@ -44,4 +44,3 @@ between the two providers, see :ref:`Supported Identity Providers`.
 
    tpa_oauth
    tpa_SAML_IdP
-

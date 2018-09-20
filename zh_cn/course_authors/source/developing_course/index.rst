@@ -1,7 +1,7 @@
 .. _Developing Your Course Index:
 
 ##########################
-Developing Your Course
+开发你的课程
 ##########################
 
 Use the topics in this section to understand how to develop your course

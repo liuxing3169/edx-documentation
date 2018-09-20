@@ -1,7 +1,7 @@
 .. _Planning Course Information:
 
 ######################################################
-Planning Course Information (edx.org and Edge Courses)
+规划课程信息 (edx.org 和 Edge Courses)
 ######################################################
 
 Course information remains true whether the course runs one time or multiple

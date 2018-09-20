@@ -1,7 +1,7 @@
 .. _The Learner View of Grades:
 
 **************************
-The Learner View of Grades
+学习者视角下的分数
 **************************
 
 After a grading policy is in place, learners can view both their problem scores

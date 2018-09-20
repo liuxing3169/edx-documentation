@@ -5,7 +5,7 @@
 .. _Test Content Experiments:
 
 ##########################################
-Test Content Experiments
+测试内容试验
 ##########################################
 
 You should test content experiments in your course before the course starts, to

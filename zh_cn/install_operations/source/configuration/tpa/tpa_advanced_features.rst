@@ -1,7 +1,7 @@
 .. _Advanced Third Party Authentication Features:
 
 ############################################
-Advanced Third Party Authentication Features
+第三方身份认证高级功能
 ############################################
 
 The Open edX Third Party Authentication feature offers many advanced

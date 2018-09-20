@@ -1,7 +1,7 @@
 .. _Numerical Input:
 
 ########################
-Numerical Input Problem
+数字输入型问题
 ########################
 
 .. note:: EdX offers full support for this problem type.

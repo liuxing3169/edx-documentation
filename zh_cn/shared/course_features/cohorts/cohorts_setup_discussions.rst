@@ -2,7 +2,7 @@
 .. _Set up Discussions in Cohorted Courses:
 
 ######################################################
-Setting up Discussions in Courses with Cohorts
+设置课程中组群的讨论
 ######################################################
 
 In courses that use cohorts, in addition to :ref:`discussion

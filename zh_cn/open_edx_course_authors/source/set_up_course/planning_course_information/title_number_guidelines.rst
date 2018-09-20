@@ -1,7 +1,7 @@
 .. _Course Title and Number:
 
 #######################
-Course Title and Number
+课程标题和编号
 #######################
 
 The course title (sometimes also called the course name) and number are

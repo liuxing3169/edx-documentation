@@ -1,7 +1,7 @@
 .. _Installing an XBlock:
 
 ##########################
-Installing an XBlock
+安装一个 XBlock
 ##########################
 
 The XBlock framework allows developers to expand the Open edX platform by

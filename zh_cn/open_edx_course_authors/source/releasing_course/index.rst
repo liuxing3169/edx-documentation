@@ -1,7 +1,7 @@
 .. _Releasing Your Course Index:
 
 ##########################
-Releasing Your Course
+发布你的课程
 ##########################
 
 .. toctree::

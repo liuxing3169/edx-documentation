@@ -1,7 +1,7 @@
 .. _Pub Add a Comment to the Course:
 
 ######################################
-Add a Comment to a Course in Publisher
+在Publisher中添加一个评论到一门课程
 ######################################
 
 You and other Publisher users can add a comment to a course at any time. When

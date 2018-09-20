@@ -1,7 +1,7 @@
 .. _completion:
 
 ##################
-Completion Tool
+完成工具
 ##################
 
 .. note:: EdX does not support this tool.
@@ -115,5 +115,3 @@ component to a unit in a course, follow these steps.
  .. code-block:: xml
 
     <done url_name="video_3_completion"/>
-
-

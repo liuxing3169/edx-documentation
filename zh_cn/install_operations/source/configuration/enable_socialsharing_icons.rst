@@ -1,7 +1,7 @@
 .. _Enabling Social Sharing of Courses and Certificates:
 
 #######################################################
-Enabling Social Sharing of Courses and Certificates
+企业课程和证书的社交分享
 #######################################################
 
 This section describes how to configure Open edX so that learners can share

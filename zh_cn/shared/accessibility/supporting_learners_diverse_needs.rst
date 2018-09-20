@@ -1,7 +1,7 @@
 .. _Supporting Learners with Diverse Needs:
 
 #######################################
-Supporting Learners with Diverse Needs
+支持不同需求的学习者
 #######################################
 
 Almost one fifth of the world's population has some kind of disability. Online
@@ -13,7 +13,7 @@ EdX is dedicated to creating a platform that is not only itself accessible,
 but also enables course content creators to create accessible content. If you
 encounter platform issues that you believe might affect your ability to
 provide accessible course content, please contact us at accessibility@edx.org.
-We welcome any comments and questions. 
+We welcome any comments and questions.
 
 .. Do not modify wording of the following note. Exact wording is from Legal.
 
@@ -84,4 +84,3 @@ respond to students who inform you of accessibility barriers to learning.
 However, given the large numbers of learners enrolling in many of the courses,
 you will quickly see how important it is to address accessibility concerns
 when creating a course.
-

@@ -1,7 +1,7 @@
 .. _Enabling Third Party Authentication:
 
 #######################################
-Enabling Third Party Authentication
+启用第三方认证
 #######################################
 
 To enhance sign in options for your users, you can enable third party
@@ -24,8 +24,4 @@ campus or organizational credentials.
 
 This section includes information for teams involved in identity management at
 Open edX installations, including development operations (DevOps) and
-information technology (IT). 
-
-
-
-
+information technology (IT).

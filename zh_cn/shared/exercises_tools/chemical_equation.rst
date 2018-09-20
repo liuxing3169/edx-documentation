@@ -1,7 +1,7 @@
 .. _Chemical Equation:
 
 ################################
-Chemical Equation Problem
+化学表达式问题
 ################################
 
 .. note:: EdX does not support this problem type.
@@ -181,4 +181,3 @@ Contains the Python script that grades the problem.
   Children
 
   (none)
-

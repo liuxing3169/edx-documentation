@@ -1,7 +1,7 @@
 .. _MathJax in Studio:
 
 ##############################
-Using MathJax for Mathematics
+为数学运算使用 MathJax
 ##############################
 
 To produce clear and professional-looking symbols and equations in web browser,

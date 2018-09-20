@@ -1,7 +1,7 @@
 .. _Determining Content Addresses:
 
 #####################################
-Determining Content Addresses
+决定内容地址
 #####################################
 
 .. only:: Partners
@@ -226,4 +226,3 @@ LTI URLs for HTML components include "html+block" or "html", as follows.
   ``https://edx-lti.org/lti_provider/courses/course-v1:edX+DemoX+Demo_Course/block-v1:edX+DemoX+Demo_Course+type@html+block@f9f3a25e7bab46e583fd1fbbd7a2f6a0``
 
   ``https://edx-lti.org/lti_provider/courses/edX/DemoX/2014/i4x:;_;_edX;_DemoX;_html;_2b94658d2eee4d85ae13f83bc24cfca9``
-

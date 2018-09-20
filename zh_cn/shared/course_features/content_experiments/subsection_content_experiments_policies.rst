@@ -3,7 +3,7 @@
 .. _Set Up Group Configuration for OLX Courses:
 
 ************************************************
-Set Up Group Configuration for OLX Courses
+为  OLX 课程设置组配置
 ************************************************
 
 You define group configurations in the ``policy.json`` file in the ``policies``

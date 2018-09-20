@@ -1,7 +1,7 @@
 .. _Programs:
 
 ################
-About Programs
+关于 Programs
 ################
 
 Programs are collections of related courses that you make available on your

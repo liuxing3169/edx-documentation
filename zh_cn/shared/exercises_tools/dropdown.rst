@@ -1,7 +1,7 @@
 .. _Dropdown:
 
 #####################
-Dropdown Problem
+下拉框型问题
 #####################
 
 .. note:: EdX offers full support for this problem type.

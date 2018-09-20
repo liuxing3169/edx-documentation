@@ -1,7 +1,7 @@
 .. _Manage Orders:
 
 ##################
-Manage Orders
+管理订单
 ##################
 
 EdX has created a framework that manages order placement and fulfillment for
@@ -76,4 +76,3 @@ order fulfillment, the service tries again to fulfill the order. You can also
 manually retry fulfillment of a failed order from the `Oscar`_ order dashboard.
 
 .. include:: ../../../links/links.rst
-

@@ -1,7 +1,7 @@
 .. _Write Your Own Grader:
 
 ##############################
-Write-Your-Own-Grader Problem
+编写你自己的评分型问题
 ##############################
 
 .. note:: EdX offers provisional support for this problem type.

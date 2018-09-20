@@ -1,7 +1,7 @@
 .. _Pub Access a Course Run in Studio:
 
 #######################################
-Access a Course Run in Studio
+访问运行在Studio中的一门课程
 #######################################
 
 When you create a course and a course run in Publisher, Publisher immediately
@@ -77,5 +77,3 @@ one of the following actions.
    :width: 300
    :alt: A course run page in Publisher with the Studio URL for the course run
        circled.
-
-

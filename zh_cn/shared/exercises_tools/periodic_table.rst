@@ -1,7 +1,7 @@
 .. _Periodic Table:
 
 #####################
-Periodic Table Tool
+元素周期表工具
 #####################
 
 .. note:: EdX does not support this tool.

@@ -1,7 +1,7 @@
 .. _Pub Send a Course for Marketing Review:
 
 #########################################
-Send a Course to edX Marketing for Review
+发送一门课程到edX市场以便查阅
 #########################################
 
 After you have entered all of the required information for your course, you can

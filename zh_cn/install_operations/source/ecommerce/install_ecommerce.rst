@@ -1,7 +1,7 @@
 .. _Install and Start ECommerce:
 
 ########################################
-Install and Start the E-Commerce Service
+安装和启动 E-Commerce 服务
 ########################################
 
 To install and start the edX E-Commerce service, you must complete the

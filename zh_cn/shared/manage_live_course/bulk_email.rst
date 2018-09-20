@@ -1,7 +1,7 @@
 .. _Bulk Email:
 
 ########################################
-Bulk Email Messages from the Course Team
+来自于课程团队的大批量邮箱消息
 ########################################
 
 For courses on edx.org, you can send bulk email messages to course participants

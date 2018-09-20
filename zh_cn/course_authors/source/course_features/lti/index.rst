@@ -1,7 +1,7 @@
 .. _Using edX as an LTI Tool Provider:
 
 ######################################
-Using edX as an LTI Tool Provider
+使用edX作为一个可交互的学习工具提供者
 ######################################
 
 The edX Edge site can be configured to be a learning tool interoperability
@@ -33,4 +33,3 @@ context.
 
 You can also include content from an LTI provider in your edX courses. For
 more information, see :ref:`LTI Component`.
-

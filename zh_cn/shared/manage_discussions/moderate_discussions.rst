@@ -1,7 +1,7 @@
 .. _Moderating_discussions:
 
 #######################
-Moderating Discussions
+适度讨论
 #######################
 
 Developing and sustaining a positive discussion culture requires that a team of

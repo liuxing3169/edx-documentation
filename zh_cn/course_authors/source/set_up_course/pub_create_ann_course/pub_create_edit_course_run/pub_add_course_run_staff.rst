@@ -1,7 +1,7 @@
 .. _Pub Add Course Run Staff:
 
 #####################
-Add Course Run Staff
+添加课程运行的职员
 #####################
 
 Course run staff include the primary instructor or instructors for the course

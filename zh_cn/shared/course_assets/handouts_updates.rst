@@ -1,7 +1,7 @@
 .. _Adding Course Updates and Handouts:
 
 ######################################################
-Adding Course Updates and Handouts
+添加课程更新和讲义
 ######################################################
 
 You can create course updates and handouts in Studio.

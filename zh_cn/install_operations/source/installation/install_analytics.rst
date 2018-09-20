@@ -1,7 +1,7 @@
 .. _Installing and Starting Analytics devstack:
 
 ##########################################
-Installing and Starting Analytics Devstack
+安装并启动 Analytics Devstack
 ##########################################
 
 This section provides information about how to install and start
@@ -31,7 +31,7 @@ To install Analytics Devstack, follow these steps.
 #. Follow steps 1 through 6 in :ref:`Install Devstack`.
 
 #. Pull the relevant Docker images by running the following commands.
-   
+
    .. code-block:: bash
 
      make pull
@@ -41,44 +41,44 @@ To install Analytics Devstack, follow these steps.
    command.
 
    .. code-block:: bash
-    
+
     make dev.provision.analytics_pipeline
 
 #. Start the analytics service by running the following command.
 
    .. code-block:: bash
-    
+
     make dev.up.analytics_pipeline
 
-   This command mounts the respositories under the ``DEVSTACK_WORKSPACE`` 
-   directory. Note that it may take up to 60 seconds for Hadoop services to 
+   This command mounts the respositories under the ``DEVSTACK_WORKSPACE``
+   directory. Note that it may take up to 60 seconds for Hadoop services to
    start.
 
- #. Access the analytics pipeline shell by running the following command.  
+ #. Access the analytics pipeline shell by running the following command.
 
    .. code-block:: bash
-    
+
     make analytics-pipeline-shell
 
 =================
 Viewing Logs
 =================
 
-To see logs from containers running in detached mode, run the following 
+To see logs from containers running in detached mode, run the following
 command.
 
   .. code-block:: bash
-   
+
    make logs
 
 As an alternative, you can use Docker's Kitematic feature, which is available from the **Docker for Mac** menu.
 
-To view the logs of a specific service container, run a 
-``make <service>-logs`` command. For example, to access the logs for Hadoop's 
+To view the logs of a specific service container, run a
+``make <service>-logs`` command. For example, to access the logs for Hadoop's
 namenode, run this command.
 
   .. code-block:: bash
-   
+
    make namenode-logs
 
 For additional information, see :ref:`Starting Devstack`.
@@ -88,4 +88,3 @@ For help with running the Analytics Devstack, see
 
 
 .. include:: ../../../links/links.rst
-

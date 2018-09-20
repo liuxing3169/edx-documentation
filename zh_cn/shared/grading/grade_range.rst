@@ -2,7 +2,7 @@
 .. _Set the Grade Range:
 
 *******************
-Set the Grade Range
+设置分数幅度
 *******************
 
 You must set the grade range for the course.  For example, your course can be

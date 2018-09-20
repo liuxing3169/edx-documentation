@@ -2,7 +2,7 @@
 .. _Set the Grace Period:
 
 *************************
-Set the Grace Period
+设置宽限周期
 *************************
 
 You can set a grace period that extends homework due dates for your learners.

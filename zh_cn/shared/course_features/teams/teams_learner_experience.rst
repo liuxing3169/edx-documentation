@@ -2,7 +2,7 @@
 
 
 ##########################################
-The Learner's Experience of Teams
+团队中的学习者体验
 ##########################################
 
 After you have :ref:`enabled teams <Teams Setup>` and created topics in your

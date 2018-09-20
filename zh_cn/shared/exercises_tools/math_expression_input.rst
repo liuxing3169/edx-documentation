@@ -1,7 +1,7 @@
 .. _Math Expression Input:
 
 ####################################
-Math Expression Input Problems
+数学表达式输入型问题
 ####################################
 
 .. note:: EdX offers full support for this problem type.

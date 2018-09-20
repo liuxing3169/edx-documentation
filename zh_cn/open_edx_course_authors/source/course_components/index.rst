@@ -1,7 +1,7 @@
 .. _Course Components Index:
 
 ############################
-Adding Course Components
+添加课程组件
 ############################
 
 Use the topics in this section to understand how to create course content of

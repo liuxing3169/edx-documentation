@@ -1,48 +1,40 @@
 .. _Enable Certificates:
 
 ##############################
-Enabling Course Certificates
+启用课程证书
 ##############################
 
-This topic describes how to enable and configure course certificates in your
-instance of Open edX.
+这个主题描述如何开启和配置课程证书到你的Open edX实例中。
 
-For information about configuring program certificates, refer to documentation
-in the edx/credentials GitHub repository.
+关于配置program证书的相关信息，参考 edx/credentials GitHub 代码仓库中的文档。
 
 .. contents::
    :local:
    :depth: 1
 
 *********************************
-Course Certificates Overview
+课程证书概览
 *********************************
 
-Organizations and course teams can choose to generate certificates for learners
-who pass a course. Learners can view, print, or share their certificates.
+组织和课程团队可以选择为那些通过一门课程的学习者生成证书。学习者可以查看，打印，或者分享他们的证书。
 
-For additional information about certificates, see
-:ref:`opencoursestaff:Setting Up Certificates` in the *Building and Running an
-Open edX Course* guide or :ref:`openlearners:Print a Web Certificate` in the
-*Open edX Learner's Guide*.
+关于证书的其他信息，请参阅 *Building and Running an Open edX Course* 指南中的
+:ref:`opencoursestaff:Setting Up Certificates` 或者 *Open edX Learner's Guide* 中的
+:ref:`openlearners:Print a Web Certificate` 。
 
-To enable course certificates on your instance of Open edX, you must enable a
-feature flag in both Studio and the Learning Management System and complete the
-configuration tasks described in this topic.
+在你的Open edX安装实例上开启课程证书，你必须在Studio和LMS中开启一个功能标记，并完成这个主题中描述的配置任务。
 
 .. Note::
-  Before proceeding, review :ref:`Guidelines for Updating the Open edX
+  操作之前，回顾 :ref:`Guidelines for Updating the Open edX
   Platform`.
 
 *************************************************
-Enable Course Certificates in Studio and the LMS
+在Studio和LMS中开启课程证书
 *************************************************
 
-To enable certificates, you modify the ``lms.env.json`` and ``cms.env.json``
-files, which are located one level above the ``edx-platform`` directory.
+要开启证书，你需要修改 ``lms.env.json`` 和 ``cms.env.json`` 文件，它们是放在和 ``edx-platform``同一级的文件目录中的。
 
-#. In the ``lms.env.json`` and ``cms.env.json`` files, set the value of
-   ``CERTIFICATES_HTML_VIEW`` within the ``FEATURES`` object  to ``true``.
+#. 在 ``lms.env.json`` 和 ``cms.env.json`` 文件中,将 ``FEATURES`` 中的  ``CERTIFICATES_HTML_VIEW`` 的值设置为 ``true``。
 
    .. code-block:: none
 
@@ -52,18 +44,15 @@ files, which are located one level above the ``edx-platform`` directory.
          ...
      }
 
-#. Save the ``lms.env.json`` and ``cms.env.json`` files.
+#. 保存 ``lms.env.json`` 和 ``cms.env.json`` 文件。
 
-#. If it does not exist already, create the folder ``/tmp/certificates`` owned
-   by the user and group ``www-data``. Depending on your configuration, this
-   folder might not survive reboots, and so might need to be created by a
-   script.
+#. 如果这里不是已经存在，创建 ``/tmp/certificates`` 文件夹，用户和用户组都为 ``www-data``。具体取决于你的配置，这个文件夹可能不会在重启时被留存下来，因此可能需要通过一个脚本来创建它。
 
-#. Run database migrations.
+#. 运行数据库 migrations.
 
 
 *****************************************
-Configuring Course Certificates in Studio
+在Studio中配置课程证书
 *****************************************
 
 Within Studio, course team members with the Admin role can create and edit a
@@ -74,7 +63,7 @@ Certificates` in *Building and Running an Open edX Course*.
 
 
 **********************************************************
-Configure Course Certificates for Your Open edX Instance
+为你的Open edX实例配置课程证书
 **********************************************************
 
 #. Access the LMS Django Administration website for your instance of Open edX.
@@ -98,9 +87,9 @@ Configure Course Certificates for Your Open edX Instance
    For each course mode for which you want to offer certificates (such as
    "honor" or "verified"), define these parameters.
 
-   * ``certificate_type`` 
+   * ``certificate_type``
    * ``certificate_title``
-   * ``document_body_class_append``. 
+   * ``document_body_class_append``.
 
    Make sure the mode name matches your course mode name exactly. An example
    follows.
@@ -152,7 +141,7 @@ Configure Course Certificates for Your Open edX Instance
 .. _Discontinue Audit Certificates:
 
 =====================================
-Discontinue Audit Track Certificates
+停止审核跟踪证书
 =====================================
 
 Organizations that offer certificates to audit track learners who pass a
@@ -185,7 +174,7 @@ which are shown on the course **Progress** page.
 
 
 ******************************************************
-Customize Certificate Templates For Your Organization
+为你的组织定义证书模板
 ******************************************************
 
 Set up the templates for certificates that your organization will issue. Base
@@ -220,7 +209,7 @@ Assets for HTML certificates exist in the following locations.
 .. _Certificates in Additional Languages:
 
 ************************************************************
-Enable Certificates in Additional Languages
+在附加语言中启用证书
 ************************************************************
 
 You can configure course certificates to render in a specific language.
@@ -230,7 +219,7 @@ You can configure course certificates to render in a specific language.
    :depth: 1
 
 =====================================================
-Configure Course Certificates in Additional Languages
+在附加语言中配置课程证书
 =====================================================
 
 To enable generating course certificates in languages other than the
@@ -244,7 +233,7 @@ default language of your platform, follow these steps.
 #. Add the language in which you want to generate certificates to
    ``EDXAPP_CERTIFICATE_TEMPLATE_LANGUAGES``
    (``edx/configuration/playbooks/roles/edxapp/defaults/main.yml``), where the
-   key is the language code and the value is the name of the language. 
+   key is the language code and the value is the name of the language.
 
    For example,    ``'fr':'français'``.
 
@@ -278,7 +267,7 @@ default language of your platform, follow these steps.
       * - ``Course Key``
         - Leave empty.
         - Enter the course key for the course run which should use this
-          certificate template.   
+          certificate template.
       * - ``Mode``
         - (Optional) Specify the course mode for which certificates will be
           generated using this template. If no mode is specified, this template
@@ -313,7 +302,7 @@ default language of your platform, follow these steps.
 .. _Display Hours of Effort:
 
 **********************************************
-Display Hours of Effort on Course Certificates
+在课程证书上显示学时
 **********************************************
 
 
@@ -345,7 +334,7 @@ these steps.
    template.
 
 #. In the certificate template, ensure that a ``div`` element exists that
-   includes the context variable ``hours_of_effort``. 
+   includes the context variable ``hours_of_effort``.
 
 #. Save your edits to the certificate template.
 
@@ -353,7 +342,7 @@ these steps.
 .. _Generate Certificates for a Course:
 
 *****************************************
-Generate Certificates For a Course
+为一门课程生成证书
 *****************************************
 
 To generate certificates for a course, run the ``manage.py`` script with the

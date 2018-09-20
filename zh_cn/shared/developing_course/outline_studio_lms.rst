@@ -18,7 +18,7 @@ The numbers represent the following levels.
     that contain the components.
 
 ===========================
-Course Progress Information
+课程进度信息
 ===========================
 
 The course outline in the LMS also indicates a learner's progress through the

@@ -1,7 +1,7 @@
 .. _Planning Course Run Information:
 
 ################################################################
-Planning Course Run Information (edx.org and Edge Courses)
+规划课程运行信息(edx.org 和 Edge Courses)
 ################################################################
 
 Course run information, such as start and end dates, is specific to a course

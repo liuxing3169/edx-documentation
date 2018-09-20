@@ -1,7 +1,7 @@
 .. _Installing edX Insights:
 
 ##############################################
-Options for Installing edX Insights
+安装edX Insights的选项
 ##############################################
 
 This topic is intended for those who are interested in running `edX Insights`_

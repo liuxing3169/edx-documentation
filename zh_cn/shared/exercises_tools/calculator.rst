@@ -1,7 +1,7 @@
 .. _Calculator:
 
 ##################
-Calculator Tool
+计算器工具
 ##################
 
 .. note:: EdX offers provisional support for this tool.

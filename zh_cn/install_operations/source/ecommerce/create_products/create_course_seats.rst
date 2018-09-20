@@ -1,7 +1,7 @@
 .. _Create Course Seats:
 
 ####################
-Create Course Seats
+创建课程占位
 ####################
 
 A course seat represents an enrollment track, sometimes called an enrollment
@@ -69,7 +69,7 @@ To create a course seat, follow these steps.
        * **Verification Deadline**
        * **Include Honor Seat**: This option grants honor code certificates to
          learners who successfully complete the course.
-         
+
 
 #. Select **Create Course**.
 

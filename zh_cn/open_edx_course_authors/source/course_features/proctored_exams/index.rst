@@ -1,7 +1,7 @@
 .. _CA_ProctoredExams:
 
 ##########################
-Proctored Exams
+监考考试
 ##########################
 
 This section describes how to create and manage proctored exams in Studio.

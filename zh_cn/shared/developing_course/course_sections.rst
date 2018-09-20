@@ -1,7 +1,7 @@
 .. _Developing Course Sections:
 
 ###################################
-Developing Course Sections
+开发课程章节
 ###################################
 
 To develop sections in your course, you must first understand the following

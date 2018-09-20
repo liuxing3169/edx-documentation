@@ -1,7 +1,7 @@
 .. _Enabling Proctored Exams:
 
 ########################################
-Creating Proctored Exams
+创建监控考试
 ########################################
 
 To create a proctored exam, you modify the course advanced settings in Studio
@@ -171,7 +171,3 @@ follow these steps.
 #. Change the value of the setting to ``false``.
 
 #. Select **Save Changes**.
-
-
-
-

@@ -1,7 +1,7 @@
 .. _Launch:
 
 ###########################
-Course Launching Activities
+课程启动的各项活动
 ###########################
 
 To launch a course, you prepare the course itself, the course team, and the

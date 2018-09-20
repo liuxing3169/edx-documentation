@@ -1,7 +1,7 @@
 .. _Obtain a Video Transcript:
 
 #########################
-Obtain a Video Transcript
+获取一个视频字幕
 #########################
 
 

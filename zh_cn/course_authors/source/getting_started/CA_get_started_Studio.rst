@@ -5,7 +5,7 @@
 .. _Getting Started with Studio:
 
 ###########################
-Getting Started with Studio
+开始使用 Studio
 ###########################
 
 This topic describes the tools you use to build an edX course, and how to
@@ -25,7 +25,7 @@ an Open edX Course* guide.
 .. _What is Studio?:
 
 ***************
-What is Studio?
+Studio是什么?
 ***************
 
 Studio is the edX tool you use to build your courses. You use Studio to create

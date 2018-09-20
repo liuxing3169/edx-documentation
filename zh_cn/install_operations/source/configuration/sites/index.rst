@@ -1,7 +1,7 @@
 .. _Configuring Open edX Sites:
 
 #############################
-Configuring Open edX Sites
+配置 Open edX 站点
 #############################
 
 By default, an Open edX installation has one site for users to interact with.
@@ -27,4 +27,3 @@ name ``arts.myuniversity.edu`` and another site with the domain name
    configure_site
 
 For more information about themes, see :ref:`Theming Open edX`.
-

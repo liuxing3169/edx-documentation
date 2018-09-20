@@ -1,7 +1,7 @@
 .. _Manage Student Progress Index:
 
 #####################################
-Managing Learner Progress and Grades
+管理学习者进度和分数
 #####################################
 
 Use the topics in this section to learn about accessing learner data and

@@ -1,7 +1,7 @@
 .. _Rerun Course Index:
 
 ##########################
-Re-running Your Course
+重新运行你的课程
 ##########################
 
 Use the topics in this section to learn about re-running your course.
@@ -13,4 +13,3 @@ see :ref:`Developing Your Course Index`.
    :maxdepth: 2
 
    course_rerun
-

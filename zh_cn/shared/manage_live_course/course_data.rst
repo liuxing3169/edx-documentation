@@ -1,7 +1,7 @@
 .. _Course Data:
 
 ############################
-Course Information
+课程信息
 ############################
 
 After you create a course in Studio, you can access information about it on the
@@ -66,4 +66,3 @@ in the instructor dashboard, and from Insights.
 To access the data visualizations, metrics, and reports that are available in
 Insights from the instructor dashboard, select the link in the banner at the
 top of each page. For more information, see :ref:`insights:Using edX Insights`.
-

@@ -1,7 +1,7 @@
 .. _Installing and Starting the Open edX Platform:
 
 ######################################################
-Installing and Starting the Open edX Platform
+安装并启动 Open edX Platform
 ######################################################
 
 The following sections provide information about how to install and start the

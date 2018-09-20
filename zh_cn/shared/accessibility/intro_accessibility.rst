@@ -1,7 +1,7 @@
 .. _Accessibility Intro:
 
 ######################################################################
-Accessibility Best Practices Guidance for Content Providers
+内容提供者的辅助最佳实践指导
 ######################################################################
 
 The core mission of edX is to expand access to education for everyone. We

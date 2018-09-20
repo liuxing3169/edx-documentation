@@ -1,7 +1,7 @@
 .. _Word Cloud:
 
 ##################
-Word Cloud Tool
+词云工具
 ##################
 
 .. note:: EdX offers provisional support for this tool.

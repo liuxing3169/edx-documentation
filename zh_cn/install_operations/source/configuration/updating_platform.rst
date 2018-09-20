@@ -1,7 +1,7 @@
 .. _Guidelines for Updating the Open edX Platform:
 
 ######################################################
-Guidelines for Updating the Open edX Platform
+Open edX Platform 更新向导
 ######################################################
 
 When you update the Open edX Platform, you should not change configuration

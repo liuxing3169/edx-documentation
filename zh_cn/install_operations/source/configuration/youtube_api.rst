@@ -1,7 +1,7 @@
 .. _YouTube_API:
 
 ###############################
-Setting Up the YouTube API Key
+设置 YouTube API Key
 ###############################
 
 This topic describes how to set the YouTube API key for your instance of

@@ -1,7 +1,7 @@
 .. _Setting up the Mobile Applications:
 
 ############################################
-Setting Up the Open edX Mobile Applications
+设置 Open edX 手机应用程序
 ############################################
 
 This section is intended for those are who are building Open edX mobile
@@ -12,7 +12,7 @@ applications and customizing an Open edX installation to support their use.
    :depth: 1
 
 ******************************
-Accessing the Source Code
+访问源代码
 ******************************
 
 There are currently two edX mobile applications, one for iOS and one for
@@ -24,7 +24,7 @@ application in the following repositories.
 * Android: http://github.com/edx/edx-app-android
 
 *****************************************
-Configuring Mobile Application Features
+配置手机应用程序的功能
 *****************************************
 
 For the mobile API and authentication to work correctly with the edX mobile
@@ -33,7 +33,7 @@ then complete the setup for authentication by creating OAuth clients and
 adding their IDs to the custom configuration file of each mobile application.
 
 ====================================
-Enable Mobile Application Features
+启用手机应用程序的功能
 ====================================
 
 .. note:: Configuration settings added to the ``lms.env.json`` file are reset
@@ -172,7 +172,7 @@ To configure the number of days before OAuth tokens expire, follow these steps.
 .. _Configuring Video Modules for Mobile:
 
 ************************************
-Configuring Video Modules for Mobile
+为手机配置视频模块
 ************************************
 
 Course videos must be specifically prepared to ensure that they are in
@@ -196,7 +196,7 @@ includes the video in the course structure.
   Open Learning XML Guide*.
 
 ****************************************
-Enabling Push Notifications
+启用推送通知
 ****************************************
 
 You enable push notifications on the server and then configure each of the edX

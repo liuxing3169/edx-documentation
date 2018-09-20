@@ -2,7 +2,7 @@
 
 
 #########################
-Managing Team Discussions
+管理团队讨论
 #########################
 
 EdX recommends that you designate course staff and optionally student teaching
@@ -48,4 +48,3 @@ Responses and comments made by community TAs have a **Community TA** label.
 
 Responses and comments made by discussion moderators or discussion
 administrators have a **Staff** label.
-

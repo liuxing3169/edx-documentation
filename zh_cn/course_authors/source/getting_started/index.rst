@@ -1,7 +1,7 @@
 .. _Getting Started Index:
 
 ################
-Getting Started
+开始使用
 ################
 
 .. toctree::

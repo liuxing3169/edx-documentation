@@ -1,7 +1,7 @@
 .. _Check the Status of a Course:
 
 #########################################
-Check the Status of a Course in Publisher
+在Publisher中检查一门课程的状态
 #########################################
 
 You can check the status of a course at any time.

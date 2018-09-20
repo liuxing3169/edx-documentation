@@ -1,7 +1,7 @@
 .. _Cohorted Courseware Overview:
 
 ###########################################
-Creating Cohort-Specific Course Content
+创建特定组群的课程内容
 ###########################################
 
 This section provides information about setting up content for specific

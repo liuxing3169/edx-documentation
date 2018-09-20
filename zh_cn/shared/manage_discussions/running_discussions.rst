@@ -2,7 +2,7 @@
 
 
 ############################
-Running Course Discussions
+运转课程讨论
 ############################
 
 On an ongoing basis, the members of your :ref:`discussion
@@ -275,6 +275,3 @@ Students`.
 .. note:: The dates and times that you enter are in Coordinated Universal
    Time (UTC), not in your local time zone. You might want to verify that you
    have specified the times that you intend by using a time zone converter.
-
-
-

@@ -1,7 +1,7 @@
 .. _Multiple Choice and Numerical Input:
 
 ############################################
-Multiple Choice and Numerical Input Problem
+多项选择和数字输入型问题
 ############################################
 
 .. note:: EdX does not support this problem type.

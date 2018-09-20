@@ -1,7 +1,7 @@
 .. _Changing the Way Open edX Looks:
 
 ######################################################
-Changing the Appearance of Open edX Sites
+改变 Open edX Sites的外观
 ######################################################
 
 This section describes how you can customize your Open edX sites to change the
