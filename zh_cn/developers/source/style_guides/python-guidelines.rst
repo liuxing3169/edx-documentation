@@ -1,7 +1,7 @@
 ..  _edx_python_guidelines:
 
 ######################
-EdX Python Style Guide
+EdX Python 样式指引
 ######################
 
 This section describes the requirements and conventions used to contribute

@@ -1,5 +1,5 @@
 ###########################
-Extending the edX Platform
+拓展 edX Platform
 ###########################
 
 .. toctree::

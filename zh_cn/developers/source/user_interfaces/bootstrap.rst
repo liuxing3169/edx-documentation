@@ -1,7 +1,7 @@
 ..  _ui_bootstrap:
 
 ######################
-Working with Bootstrap
+使用 Bootstrap
 ######################
 
 This topic describes the Bootstrap framework, and how it should be used to

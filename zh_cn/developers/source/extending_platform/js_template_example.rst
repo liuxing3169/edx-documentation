@@ -1,7 +1,7 @@
 .. _The Custom JavaScript Display and Grading Example Template:
 
 ###########################################################
-The Custom JavaScript Display and Grading Example Template
+自定义脚本显示和评分举例样板
 ###########################################################
 
 As referred to in `course team documentation <http://edx.readthedocs.io/projects/edx-partner-course-staff/en/latest/exercises_tools/custom_javascript.html>`_, there is a built-in template in edX Studio that uses a sample JavaScript application.
@@ -193,4 +193,3 @@ The XML problem for the sample template is as follows.
             sop="false"/>
         </customresponse>
     </problem>
-

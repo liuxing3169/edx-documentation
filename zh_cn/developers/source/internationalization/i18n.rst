@@ -1,7 +1,7 @@
 .. _i18n:
 
 ######################################
-Internationalization Coding Guidelines
+国际化代码指引
 ######################################
 
 Preparing code to be presented in many languages can be complex and difficult.

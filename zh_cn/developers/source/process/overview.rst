@@ -1,5 +1,5 @@
 *****************************
-Process for Contributing Code
+贡献代码的步骤
 *****************************
 
 Open edX is a massive project, and we would love you to help us build

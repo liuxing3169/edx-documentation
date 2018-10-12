@@ -1,5 +1,5 @@
 ##################################################
-Guidelines for Translating the Open edX Platform
+翻译 Open edX Platform 的指引
 ##################################################
 
 Open edX uses Transifex, an open source translation platform, to power

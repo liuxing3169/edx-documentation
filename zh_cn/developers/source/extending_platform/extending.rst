@@ -2,7 +2,7 @@
 .. _Options for Extending the edX Platform:
 
 ##########################################
-Options for Extending the edX Platform
+拓展edX Platform的可选项
 ##########################################
 
 There are several options for extending the Open edX Platform to provide useful

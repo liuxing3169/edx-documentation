@@ -1,5 +1,5 @@
 ######################################
-Writing Code for Internationalization
+为国际化编写代码
 ######################################
 
 .. toctree::
@@ -7,4 +7,3 @@ Writing Code for Internationalization
 
     i18n.rst
     i18n_translators_guide.rst
-

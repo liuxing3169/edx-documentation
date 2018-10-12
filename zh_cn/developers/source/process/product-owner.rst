@@ -1,5 +1,5 @@
 *************
-Product Owner
+产品拥有者
 *************
 
 The product owner has two main responsibilities: approving user-facing features
@@ -26,7 +26,7 @@ number of factors to consider.
   documentation, or should the contributor provide it?
 
 - Does the work require other review, such as user experience, design,
-  accessibility, internationalization, training, or customer support? 
+  accessibility, internationalization, training, or customer support?
 
 The earlier in the process these other roles are involved, the better the
 process will work, and the better the final product will be.

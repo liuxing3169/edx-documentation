@@ -1,7 +1,7 @@
 .. _analytics:
 
 ##############
-Analytics
+数据分析
 ##############
 
 The edX LMS and Studio are instrumented to enable tracking of metrics and

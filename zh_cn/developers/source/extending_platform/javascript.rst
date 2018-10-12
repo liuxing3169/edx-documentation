@@ -1,7 +1,7 @@
 .. _Custom JavaScript Applications:
 
 ##########################################
-Custom JavaScript Applications
+定制脚本程序
 ##########################################
 
 

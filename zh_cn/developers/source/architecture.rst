@@ -1,5 +1,5 @@
 ###########################
-Open edX Architecture
+Open edX 系统架构
 ###########################
 
 The Open edX project is a web-based platform for creating, delivering, and
@@ -10,7 +10,7 @@ This page explains the architecture of the platform at a high level, without
 getting into too many details.
 
 ********
-Overview
+概述
 ********
 
 There are a handful of major components in the Open edX project. Where
@@ -35,7 +35,7 @@ Almost all of the server-side code in the Open edX project is in `Python`_,
 with `Django`_ as the web application framework.
 
 **************
-Key Components
+关键组件
 **************
 
 ================================

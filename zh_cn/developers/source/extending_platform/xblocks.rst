@@ -1,4 +1,4 @@
-Integrating XBlocks with edx-platform
+整合 XBlocks 到 edx-platform
 =====================================
 
 The edX LMS and Studio have several features that are extensions of the core

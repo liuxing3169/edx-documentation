@@ -1,7 +1,7 @@
 .. _code_quality:
 
 ************
-Code Quality
+代码质量
 ************
 
 We use a variety of tools to check for errors and vulerabilities, and to enforce

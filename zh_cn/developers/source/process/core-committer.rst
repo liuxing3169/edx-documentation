@@ -1,5 +1,5 @@
 **************
-Core Committer
+核心提交者
 **************
 
 Core committers (or simply, committers) are responsible for reviewing pull

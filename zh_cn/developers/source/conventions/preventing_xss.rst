@@ -1,7 +1,7 @@
 .. _Preventing XSS:
 
 ###############################################
-Preventing Cross Site Scripting Vulnerabilities
+防范XSS缺陷
 ###############################################
 
 Cross Site Scripting (XSS) vulnerabilities allow user-supplied data to be

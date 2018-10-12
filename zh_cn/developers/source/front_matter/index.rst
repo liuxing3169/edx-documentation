@@ -1,5 +1,5 @@
 #############################
-General Information
+通用信息
 #############################
 
 .. toctree::
@@ -8,4 +8,3 @@ General Information
    read_me
    preface
    browsers
-

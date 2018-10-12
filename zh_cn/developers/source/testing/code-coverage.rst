@@ -1,5 +1,5 @@
 *************
-Code Coverage
+代码覆盖
 *************
 
 We measure which lines of our codebase are covered by unit tests using

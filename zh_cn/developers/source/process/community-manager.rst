@@ -1,5 +1,5 @@
 *****************
-Community Manager
+社区管理
 *****************
 
 Community managers handle the first part of the process of responding to pull

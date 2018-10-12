@@ -6,18 +6,15 @@
 edX 浏览器支持
 ####################
 
-The edX platform runs on the following browsers.
+edX platform支持以下浏览器。
 
 * `Chrome`_
 * `Safari`_
 * `Firefox`_
-* `Microsoft Edge`_ and `Microsoft Internet Explorer`_ 11
+* `Microsoft Edge`_ 和 `Microsoft Internet Explorer`_ 11
 
-The edX platform is routinely tested and verified on the current version and
-the previous version of each of these browsers. We generally encourage the use
-of, and fully support only, the latest version.
+edX platform 当前版本和之前的版本会在这些每一个浏览器上进行测试和验证。我们通常鼓励使用这些浏览器，而且仅会全力支持最新版本的浏览器。
 
-.. note:: If you use the Safari browser, be aware that it does not support the
- search feature for the guides on `docs.edx.org`_. This is a known limitation.
+.. note:: 如果你使用Safari浏览器，请注意它不支持 `docs.edx.org`_ 上的指南的搜索功能。这是一个已知的限制。
 
 .. include:: ../../../links/links.rst

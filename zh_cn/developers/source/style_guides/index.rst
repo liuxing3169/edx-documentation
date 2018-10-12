@@ -1,7 +1,7 @@
 .. _edX Style Guidelines:
 
 #########################
-Language Style Guidelines
+代码语言样式指引
 #########################
 
 .. toctree::

@@ -1,7 +1,7 @@
 .. _edx_user_interfaces:
 
 ##########################
-Developing User Interfaces
+开发用户界面
 ##########################
 
 This section provides information about developing user interfaces (UI) for edX

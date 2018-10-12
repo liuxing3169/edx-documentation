@@ -1,5 +1,5 @@
 ***********
-Contributor
+贡献者
 ***********
 
 Before you make a pull request, it's a good idea to reach out to the edX

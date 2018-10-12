@@ -1,7 +1,7 @@
 .. _Test OpenedX Features:
 
 ##########################
-Testing Open edX Features
+测试 Open edX 功能
 ##########################
 
 .. This topic will move to a different section in the ICR guide after the reorg

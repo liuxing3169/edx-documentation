@@ -1,7 +1,7 @@
 ..  _edx_javascript_guidelines:
 
 ##########################
-EdX JavaScript Style Guide
+EdX JavaScript 样式指引
 ##########################
 
 This section describes the requirements and conventions used to contribute

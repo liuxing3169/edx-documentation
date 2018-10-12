@@ -1,7 +1,7 @@
 ..  _ui_technologies:
 
 ######################
-Front End Technologies
+前端技术
 ######################
 
 The rapid pace of development in front end tooling has created opportunities

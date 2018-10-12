@@ -1,7 +1,7 @@
 ..  _ui_getting_started:
 
 ###############
-Getting Started
+开始使用
 ###############
 
 This topic contains a collection of best practices to consider when starting to

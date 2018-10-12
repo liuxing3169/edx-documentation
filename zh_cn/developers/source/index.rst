@@ -1,7 +1,7 @@
 .. _edX Developer's Guide:
 
 ############################
-Open edX Developer's Guide
+Open edX 开发者指南
 ############################
 
 .. toctree::

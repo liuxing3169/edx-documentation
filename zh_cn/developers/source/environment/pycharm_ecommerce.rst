@@ -1,5 +1,5 @@
 **************************************
-Setting up PyCharm to Debug E-Commerce
+配置PyCharm调试 E-Commerce
 **************************************
 
 With the correct run configurations set up, `PyCharm Professional Edition

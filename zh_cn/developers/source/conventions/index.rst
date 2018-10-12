@@ -1,7 +1,7 @@
 .. _coding_conventions:
 
 ##################
-Writing Good Code
+编写高质量的代码
 ##################
 
 .. toctree::
@@ -10,4 +10,3 @@ Writing Good Code
     accessibility
     preventing_xss
     django
-

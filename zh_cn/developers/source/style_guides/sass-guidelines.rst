@@ -1,7 +1,7 @@
 ..  _edx_sass_guidelines:
 
 ####################
-EdX Sass Style Guide
+EdX Sass 样式指引
 ####################
 
 This section describes the requirements and conventions used to contribute

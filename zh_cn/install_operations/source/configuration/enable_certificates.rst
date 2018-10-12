@@ -32,7 +32,7 @@
 在Studio和LMS中开启课程证书
 *************************************************
 
-要开启证书，你需要修改 ``lms.env.json`` 和 ``cms.env.json`` 文件，它们是放在和 ``edx-platform``同一级的文件目录中的。
+要开启证书，你需要修改 ``lms.env.json`` 和 ``cms.env.json`` 文件，它们是放在和 ``edx-platform`` 同一级的文件目录中的。
 
 #. 在 ``lms.env.json`` 和 ``cms.env.json`` 文件中,将 ``FEATURES`` 中的  ``CERTIFICATES_HTML_VIEW`` 的值设置为 ``true``。
 

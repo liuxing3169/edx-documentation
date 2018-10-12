@@ -3,7 +3,7 @@
 .. _edX Objective-C Style Guide:
 
 ###########################
-EdX Objective-C Style Guide
+EdX Objective-C 样式指引
 ###########################
 
 This section describes the requirements and conventions for contributing Objective-C programming to the edX platform.
@@ -392,4 +392,3 @@ Writing Tests
 .. _Apple's guidelines: https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html
 .. _error prone API: http://khanlou.com/2013/12/kvo-considered-harmful/
 .. _principle of least surprise: http://en.wikipedia.org/wiki/Principle_of_least_astonishment
-

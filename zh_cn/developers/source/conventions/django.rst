@@ -1,7 +1,7 @@
 .. _Django Good Practices:
 
 *********************
-Django Good Practices
+Django 好的做法
 *********************
 
 .. contents::

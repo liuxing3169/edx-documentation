@@ -1,5 +1,5 @@
 *******
-Testing
+测试
 *******
 
 Testing is something that we take very seriously at edX: we even have a
