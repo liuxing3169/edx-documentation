@@ -4,10 +4,8 @@
 Open edX Platform 安装选项
 ########################################
 
-This section describes Open edX installation options and the components that
-each option includes. There are two development environment installation
-options, which install the Open edX software using Docker. If you prefer, you
-can install into an Ubuntu machine of your own using the Native installation.
+这个章节描述了Open edX安装选项和每个不同选项所包含的组件。这里有两种开发环境安装选项，可以使用Docker安装Open edX软件。
+如果你喜欢，你可以使用Native安装的方法安装到一台你自己的Ubuntu机器中。
 
 .. contents::
  :local:
@@ -17,19 +15,13 @@ can install into an Ubuntu machine of your own using the Native installation.
 Open edX Platform on Docker
 **********************************
 
-You can install the Open edX developer stack (**Devstack**) or the Open edX
-analytics developer stack (**Analytics Devstack**).
+你可以安装Open edX开发者技术栈 (**Devstack**) 或者 Open edX analytics 开发者技术栈 (**Analytics Devstack**).
 
-* Devstack is a set of Docker containers designed for local
-  development. For more information, see :ref:`Info Devstack`.
+* Devstack 是为本地开发设计的一组Docker容器。了解更多信息，请参阅 :ref:`Info Devstack`.
 
-* Analytics Devstack is a modified version of the Devstack installation that
-  allows you to run Open edX Analytics. For more information, see
-  :ref:`Info Analytics Devstack`.
+* Analytics Devstack 是一个修改过的版本的Devstack安装，可以允许你运行Open edX Analytics. 了解更多信息, 请参阅 :ref:`Info Analytics Devstack`.
 
-You can run Devstack or Analytics Devstack on Linux or macOS. See the
-`Docker`_ downloads page for information about the operating systems and
-architectures on which you can run Docker.
+你可以在Linux或macOS上运行Devstack或Analytics Devstack。查看 `Docker`_ 下载页面了解你可以运行Docker关于操作系统和架构的相关信息.
 
 Devstack using `Docker for Windows`_ has not been tested and it is not
 supported.
@@ -86,21 +78,21 @@ Native Installation`_ page on the edX wiki.
 
 
 *******************
-Software Components
+软件组件
 *******************
 
-A Devstack installation includes the following Open edX components:
+一个Devstack安装包括下列的Open edX组件：
 
-* The Learning Management System (LMS)
+* 学习管理系统 (LMS)
 * Open edX Studio
-* Discussion Forums
+* 论坛
 * Open Response Assessments (ORA)
 * E-Commerce
-* Credentials
-* Notes
-* Course Discovery
+* 证书
+* 笔记
+* 课程发现
 * XQueue
-* Open edX Search
+* Open edX 搜索
 * A demonstration Open edX course
 
 Analytics Devstack also includes the following Open edX components:

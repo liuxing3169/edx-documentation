@@ -20,7 +20,7 @@ For information on the Transifex process, see the following sections.
  :depth: 1
 
 ******************************
-Getting Started with Transifex
+开始使用Transifex
 ******************************
 
 Contributors who want to help translate edx-platform and associated projects
@@ -48,7 +48,7 @@ This section contains the following topics.
  :depth: 1
 
 =========================
-Sign up for an Account
+注册一个账号
 =========================
 
 Go to `https://www.transifex.com/signup/ <https://www.transifex.com/signup/>`_
@@ -56,7 +56,7 @@ and fill out the form to create a free Transifex account, if you do not have
 one already.
 
 ==========================
-Join a Translation Team
+加入一个 Translation 组
 ==========================
 
 #. After you set up your account, visit the `edx-platform project
@@ -84,7 +84,7 @@ Join a Translation Team
    immediately. For more information, see :ref:`How To Translate With Transifex`.
 
 =====================
-Join a Review Team
+加入一个 Review 组
 =====================
 
 Optionally, you can request to become a `reviewer
@@ -121,7 +121,7 @@ your message.
 .. _How To Translate With Transifex:
 
 ===============================
-Translating With Transifex
+使用Transifex进行翻译
 ===============================
 
 After you become a member of a translation or review team, you can select any
@@ -156,7 +156,7 @@ Studio resources.
   * django-studio
 
 =========================
-Requesting a New Language
+请求一门新语言
 =========================
 
 If the language you are interested in contributing translations for is not
@@ -181,7 +181,7 @@ strings translated and reviewed, so that we can publish your work on the
 edx.org website.
 
 **************************
-Guidelines for Translators
+翻译者指南
 **************************
 
 Before you begin translation work, please familiarize yourself with the
@@ -204,7 +204,7 @@ even add a comment to the code to clarify the string, which will help
 translators working on other language projects.
 
 =================
-Working With HTML
+使用HTML
 =================
 
 Translating strings for a website like edX is more complicated than simply
@@ -252,7 +252,7 @@ Examples::
 
 
 =========================
-Working With Placeholders
+使用占位符
 =========================
 
 Strings in programs sometimes need to have data inserted into them before being

@@ -1,7 +1,7 @@
 .. _Student_Info:
 
 ###################################
-User Info and Learner Progress Data
+用户信息和学习者进度数据
 ###################################
 
 The following sections detail how edX stores stateful data for users
@@ -2633,4 +2633,3 @@ group_type
 name
 ------
   The name of the group.
-

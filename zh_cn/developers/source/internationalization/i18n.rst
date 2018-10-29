@@ -4,10 +4,7 @@
 国际化代码指引
 ######################################
 
-Preparing code to be presented in many languages can be complex and difficult.
-This section presents best practices for marking English strings in source so
-that they can be extracted, translated, and displayed to the user in the
-language of their choice.
+准备以多种语言呈现的代码可能是复杂困难的。这个章节显示在源码中编写可以被提取的，被翻译，并显示为用户所选择的语言的英文字符串的最佳实践。
 
 .. contents::
    :depth: 1
@@ -15,44 +12,34 @@ language of their choice.
 
 
 **********************************
-General Internationalization Rules
+通用国际化规则
 **********************************
 
-For source files to be successfully localized, you need to prepare them so that
-any human-readable strings can be extracted by a pre-processing step, and then
-have localized strings used at runtime. This preparation requires attention to
-detail, and unfortunately limits what you can do with strings in the code.
+要使源文件成功本地化，您需要准备它们，以便可以通过预处理步骤提取任何人类可读的字符串，然后在运行时使用本地化字符串。
+这个准备需要注意细节，不幸的是限制了你在代码中使用字符串做什么。
 
-Follow these general rules for internationalizing your code.
+下面是国际化你的代码的一些通用规则。
 
-#. Always mark complete sentences for translation. If you combine fragments at
-   runtime, there is no way for the translator to construct a proper sentence
-   in their language.
+#. 总是为翻译标记完整的句子。如果你在运行时连接片段，对于翻译者来说没有办法以他们的语言构想一个恰当的句子。
 
-#. Do not combine strings together at runtime.
+#. 不用在运行时联合字符串。
 
-#. Limit the amount of text in strings that is not presented to the user. HTML
-   markup is better applied after translation. If you include HTML in strings
-   there is a chance that translators will translate your tags or attributes.
+#. 限制未呈现给用户的字符串中的文本量。 HTML标记最好是在翻译后使用。 如果你在字符串中包含HTML，则翻译人员可能会翻译你的标签或属性。
 
-#. Use placeholders with descriptive names: ``"Welcome {student_name}"`` is
-   much better than ``"Welcome {0}"``.
+#. 使用占位符时用描述性的名字： ``"Welcome {student_name}"`` 要好过于 ``"Welcome {0}"``.
 
-For details, see :ref:`i18n Style Guidelines`.
+了解更多详情, 参阅 :ref:`i18n Style Guidelines`.
 
 
 ********************
-Editing Source Files
+编辑源码文件
 ********************
 
-When you edit source files (including Python, JavaScript, or HTML template
-files), you should be aware of the following conventions.
+当你编辑源文件时(包括Python, JavaScript, 或者HTML 模板文件)，你应该清楚下面的惯例。
 
-#. Know what has to be at the top of the file (if anything) to prepare it for
-   i18n.
+#. 知道文件顶部必须有什么(如果有的话)需要提前为i18n准备的。
 
-#. Know how strings are marked for internationalization. This markup typically
-   takes the form of a function call with the string as an argument.
+#. 知道为了国际化，字符串是如何被标记的。此标记通常采用函数调用的形式，并将字符串作为参数。
 
 #. Know how translator comments are indicated. Such comments in the file will
    travel with the strings to the translators, giving them context to produce
@@ -61,8 +48,7 @@ files), you should be aware of the following conventions.
    multi-line comments are supported for translator comments that need to be
    wrapped.
 
-The code samples below show how to do each of these things for a variety of
-programming languages.
+下面的代码简单地展示如何在各类编程语言中完成这些事情。
 
 .. note:: Take into account not just the programming language involved, but the
    type of file that you are preparing for internationalization. For example,
@@ -78,7 +64,7 @@ programming languages.
 .. _i18n Python Source Code:
 
 ==================
-Python Source Code
+Python源代码
 ==================
 
 .. highlight:: python
@@ -135,7 +121,7 @@ This example is correct. ::
 .. _i18n Django Template Files:
 
 =====================
-Django Template Files
+Django Template 文件
 =====================
 
 .. highlight:: django
@@ -152,7 +138,7 @@ translation and add translator comments as shown. ::
 .. _i18n Mako Template Files:
 
 ===================
-Mako Template Files
+Mako Template 文件
 ===================
 
 .. highlight:: mako
@@ -225,7 +211,7 @@ For more information on proper escaping, see :ref:`Preventing XSS`.
 .. _i18n JavaScript Files:
 
 ================
-JavaScript Files
+JavaScript 文件
 ================
 
 .. highlight:: html
@@ -264,7 +250,7 @@ differently. There, you must use the Mako syntax even within the JavaScript.
 .. _i18n CoffeeScript Files:
 
 ==================
-CoffeeScript Files
+CoffeeScript 文件
 ==================
 
 .. highlight:: coffeescript
@@ -317,7 +303,7 @@ following rules.
 .. _i18n Underscore Template Files:
 
 =========================
-Underscore Template Files
+Underscore Template 文件
 =========================
 
 Underscore template files are used in conjunction with JavaScript, so the same
@@ -383,7 +369,7 @@ questions from translators.
 .. _i18n Other Types of Content:
 
 ======================
-Other Types of Content
+其它类型的内容
 ======================
 
 We have not yet established guidelines for internationalizing the following
@@ -396,7 +382,7 @@ types of content.
 .. _i18n Coverage Testing:
 
 ****************
-Coverage Testing
+覆盖测试
 ****************
 
 These instructions assume that you are a developer working on
@@ -469,7 +455,7 @@ When you have finished reviewing, append ``/update_lang/`` to the LMS or
 Studio URL and reset your session to your base language.
 
 ====================
-Set Preview Language
+设置预览语言
 ====================
 
 Before you set the preview language, sign in to either LMS or Studio. Then
@@ -486,7 +472,7 @@ selected language. The  language persists for the duration of your session.
 .. _i18n Style Guidelines:
 
 ****************
-Style Guidelines
+风格指南
 ****************
 
 ===========================================
@@ -549,7 +535,7 @@ Good (JavaScript)::
     message = gettext('Here is a really really long message that is correctly left on a single line.')
 
 ======================
-Use Named Placeholders
+使用命名的占位符
 ======================
 
 Python string formatting provides both positional and named placeholders. Use
@@ -584,7 +570,7 @@ The resulting output is correct in each language. ::
 
 
 ==============================
-Only Translate Literal Strings
+只翻译文字字符串
 ==============================
 
 As programmers, we are used to using functions in flexible ways. But
@@ -636,7 +622,7 @@ shown in these examples.
 
 
 ==========================
-Be Aware of Nested Context
+意识到嵌套的上下文
 ==========================
 
 When you provide strings in templated files for translation, you have to be
@@ -681,7 +667,7 @@ The code with proper escaping produces the following JavaScript-escaped code.
 
 
 ==================
-Singular vs Plural
+奇异与多元
 ==================
 
 It can be tempting to improve a message by selecting singular or plural based
@@ -712,7 +698,7 @@ translation file; you can then use that string to format in the count.
 
 
 =====================
-Translating Too Early
+翻译时间过早
 =====================
 
 When the ``_()`` function is called, it will fetch a translated string using
@@ -779,7 +765,7 @@ use the real translation function to get the localized string.
 
 
 ==================
-Multi-line Strings
+多行字符串
 ==================
 
 Translator notes must directly precede the string literals to which they refer.
@@ -806,7 +792,7 @@ a line directly below the translator note. ::
 .. _i18n Additional Resources:
 
 ********************
-Additional Resources
+其它资源
 ********************
 
 The following links provide other resources related to internationalization.

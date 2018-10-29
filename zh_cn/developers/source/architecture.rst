@@ -2,9 +2,7 @@
 Open edX 系统架构
 ###########################
 
-The Open edX project is a web-based platform for creating, delivering, and
-analyzing online courses. It is the software that powers edx.org and many other
-online education sites.
+Open edX 项目是一个基于Web的创建，发布和分析在线课程的平台。它是驱动edx.org和很多其他在线教育站点的软件。
 
 This page explains the architecture of the platform at a high level, without
 getting into too many details.

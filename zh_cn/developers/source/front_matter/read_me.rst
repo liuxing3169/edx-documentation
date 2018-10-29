@@ -1,15 +1,11 @@
 *******
-Read Me
+说明
 *******
 
-The *edX Developer Documentation* is created using RST_ files and Sphinx_.
-You, the user community, can help update and revise this documentation project
-on GitHub.
+*edX Developer Documentation* 是使用 RST_ 文件和 Sphinx_ 创建的。你，社区的用户，可以在GitHub中帮助更新和修正这份文档项目。
 
 https://github.com/edx/edx-documentation/tree/master/en_us/developers/source
 
-The edX documentation team welcomes contributions from Open edX community
-members. You can find guidelines for how to `contribute to edX Documentation`_
-in the GitHub edx/edx-documentation repository.
+edX 文档团队欢迎Open edX社区成员的贡献，你可以在GitHub中的 edx/edx-documentation 仓库中找到关于如何 `contribute to edX Documentation`_ 的指引。
 
 .. include:: ../../../links/links.rst
